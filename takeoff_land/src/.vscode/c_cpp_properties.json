@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/rumaisa/catkin_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/rumaisa/catkin_ws/src/hector_gazebo/hector_gazebo_plugins/include/**",
+                "/home/rumaisa/catkin_ws/src/hector_gazebo/hector_gazebo_thermal_camera/include/**",
+                "/home/rumaisa/catkin_ws/src/hector_slam/hector_geotiff/include/**",
+                "/home/rumaisa/catkin_ws/src/hector_slam/hector_map_tools/include/**",
+                "/home/rumaisa/catkin_ws/src/hector_slam/hector_mapping/include/**",
+                "/home/rumaisa/catkin_ws/src/hector_slam/hector_marker_drawing/include/**",
+                "/home/rumaisa/catkin_ws/src/hector_localization/hector_pose_estimation/include/**",
+                "/home/rumaisa/catkin_ws/src/hector_localization/hector_pose_estimation_core/include/**",
+                "/home/rumaisa/catkin_ws/src/hector_quadrotor/hector_quadrotor_actions/include/**",
+                "/home/rumaisa/catkin_ws/src/hector_quadrotor/hector_quadrotor_controller_gazebo/include/**",
+                "/home/rumaisa/catkin_ws/src/hector_quadrotor/hector_quadrotor_gazebo_plugins/include/**",
+                "/home/rumaisa/catkin_ws/src/hector_quadrotor/hector_quadrotor_interface/include/**",
+                "/home/rumaisa/catkin_ws/src/hector_quadrotor/hector_quadrotor_model/include/**",
+                "/home/rumaisa/catkin_ws/src/hector_quadrotor/hector_quadrotor_pose_estimation/include/**",
+                "/home/rumaisa/catkin_ws/src/hector_quadrotor/hector_uav_msgs/include/**",
+                "/home/rumaisa/catkin_ws/src/offb/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

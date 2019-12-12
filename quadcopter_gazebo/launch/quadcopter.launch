@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+
+  <arg name="world" default="empty"/> 
+  <arg name="paused" default="false"/>
+  <arg name="use_sim_time" default="true"/>
+  <arg name="gui" default="true"/>
+  <arg name="headless" default="false"/>
+  <arg name="debug" default="false"/>
+
+  <include file="$(find gazebo_ros)/launch/empty_world.launch">
+    <arg name="world_name" value="$(find quadcopter_gazebo)/worlds/quadcopter.world"/>
+    <arg name="paused" value="$(arg paused)"/>
+    <arg name="use_sim_time" value="$(arg use_sim_time)"/>
+    <arg name="gui" value="$(arg gui)"/>
+    <arg name="headless" value="$(arg headless)"/>
+    <arg name="debug" value="$(arg debug)"/>
+  </include>
+
+  <include file="$(find hector_quadrotor_gazebo)/launch/spawn_quadrotor.launch">
+    <arg name="model" value="$(find hector_quadrotor_description)/urdf/quadrotor_hokuyo_utm30lx.gazebo.xacro"/>
+
+      <arg name="x" default="0.0"/>
+      <arg name="y" default="0.0"/>
+      <arg name="z" default="0.3"/>
+  </include>
+
+  <include file="$(find takeoff_land)/launch/takeoff_land.launch"/>
+
+  <node pkg="rosservice" type="rosservice" name="global_log" args="call --wait /enable_motors '{enable: true}'" />
+
+  <node pkg="rviz" type="rviz" name="$(anon rviz)" args="$(find quadrotor_navigation)/rviz/mapping.rviz" />
+
+
+<!--
+ <include file="$(find publish_navdata)/launch/publish_navdata.launch"/> 
+-->
+
+</launch>
