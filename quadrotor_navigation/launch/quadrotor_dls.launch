@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+
+    <!--- Depth image to laser scan -->
+    <node pkg="depthimage_to_laserscan" type="depthimage_to_laserscan" name="depthimage_to_laserscan" >
+        <param name="scan_height" value="3"/>
+        <param name="output_frame_id" value="base_link"/>
+        <remap from="image" to="/camera/depth/image_raw" />
+    </node>
+
+</launch>

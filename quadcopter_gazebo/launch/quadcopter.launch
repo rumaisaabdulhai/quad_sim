@@ -18,16 +18,17 @@
   </include>
 
   <include file="$(find hector_quadrotor_gazebo)/launch/spawn_quadrotor.launch">
-    <arg name="model" value="$(find hector_quadrotor_description)/urdf/quadrotor_hokuyo_utm30lx.gazebo.xacro"/>
+    <!-- <arg name="model" value="$(find hector_quadrotor_description)/urdf/quadrotor_hokuyo_utm30lx.gazebo.xacro"/> -->
+    <arg name="model" value="$(find hector_quadrotor_description)/urdf/quadrotor_with_kinect.gazebo.xacro"/>
 
       <arg name="x" default="0.0"/>
       <arg name="y" default="0.0"/>
       <arg name="z" default="0.3"/>
   </include>
 
-  <include file="$(find takeoff_land)/launch/takeoff_land.launch"/>
-
   <node pkg="rosservice" type="rosservice" name="global_log" args="call --wait /enable_motors '{enable: true}'" />
+
+  <!-- <include file="$(find takeoff_land)/launch/takeoff_land.launch"/> -->
 
   <node pkg="rviz" type="rviz" name="$(anon rviz)" args="$(find quadrotor_navigation)/rviz/mapping.rviz" />
 
