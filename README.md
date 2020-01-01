@@ -131,7 +131,7 @@ This image shows the drone navigating to the goal:
 
 ## Demos
 
-Click this [link](https://drive.google.com/open?id=1zvveXdScOxd2hiGnyvaLpDm5zXCi5mQ) to view the demos for the mapping and navigation.
+Click this [link](https://drive.google.com/open?id=1zvveXdScOxd2hiGnyvaLpDm5zXCi5mQ_) to view the demos for the mapping and navigation.
 
 ---
 
