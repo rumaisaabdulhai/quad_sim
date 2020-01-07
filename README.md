@@ -4,15 +4,15 @@ Made by Rumaisa Abdulhai
 
 Student at Massachsetts Academy of Math & Science at WPI
 
+## Motivation
+
+In the summer of 2019, I attended the MIT Beaverworks (BWSI) UAV Racing Course where I used an Intel RTF research drone to build an autonomous drone application. I gained a practical understanding of the Intel compute board, the Robot Operating System (ROS), the PX4 flight controller, and the sensors, including cameras which allowed the drone to hover with stability at specified heights, identify AR markers on obstacles (for basic obstacle avoidance), and navigate a curved path successfully. My team won first place in the final UAV racing competition, with a time of 1 minute and 32 seconds. The BWSI program encouraged me to start building my own indoor autonomous drone application. I would like to thank my instructors Ross Allen and Mark Mazumder for motivating me to embark on this project.
+
 ## Introduction
 
 This repository uses a quadcopter to map a simple gazebo environment using the gmapping SLAM algorithm and allows the drone to autonomously navigate from one point to another using the move_base node. The drone model with a laser sensor has been tested to follow these tasks, but a drone model with a kinect depth camera performing these tasks is a currently a work in progress.
 
 **Note**: A linux machine running ROS Kinetic and Ubuntu 16.04 were used to make this package. This code is not guaranteed to work for other ROS versions, but many packages used in this project are available in other ROS distros.
-
-## Motivation
-
-In the summer of 2019, I attended the MIT Beaverworks (BWSI) UAV Racing Course where I used an Intel RTF research drone to build an autonomous drone application. I gained a practical understanding of the Intel compute board, the Robot Operating System (ROS), the PX4 flight controller, and the sensors, including cameras which allowed the drone to hover with stability at specified heights, identify AR markers on obstacles (for basic obstacle avoidance), and navigate a curved path successfully. My team won first place in the final UAV racing competition, with a time of 1 minute and 32 seconds. The BWSI program encouraged me to start building my own indoor autonomous drone application. I would like to thank my instructors Ross Allen and Mark Mazumder for motivating me to embark on this project.
 
 ---
 
