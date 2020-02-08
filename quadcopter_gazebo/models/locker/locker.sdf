@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+<sdf version='1.6'>
+<model name="locker">
+  <static>false</static>
+    <link name="link">
+
+      <collision name="collision">
+        <geometry>
+          <geometry>
+            <mesh><uri>model://locker/meshes/Locker.stl.dae</uri> <scale>0.001 0.001 0.001</scale> </mesh>
+          </geometry>
+        </geometry>
+      </collision>
+
+      <visual name="visual">
+        <geometry>
+          <geometry>
+            <mesh><uri>model://locker/meshes/Locker.stl.dae</uri> <scale>0.001 0.001 0.001</scale> </mesh>
+          </geometry>
+        </geometry>
+      </visual>
+
+    </link>
+  </model>
+</sdf>
