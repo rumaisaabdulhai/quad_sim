@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <node pkg="quadcopter_takeoff_land" type="quadcopter_takeoff_land.py" name="quad_takeoff_land" output="screen"></node>
+</launch>

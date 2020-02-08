@@ -1,7 +1,6 @@
-image: /home/rumaisa/catkin_ws/src/quadcopter_sim/quadrotor_navigation/maps/full_map.pgm
+image: /home/rumaisa/catkin_ws/src/quadcopter_sim/quadcopter_mapping/maps/school_map.pgm
 resolution: 0.050000
 origin: [-49.000000, -37.800000, 0.000000]
 negate: 0
 occupied_thresh: 0.65
 free_thresh: 0.196
-

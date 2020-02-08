@@ -1,7 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
 <launch>
 
   <!-- Map server -->
-  <arg name="map_file" default="$(find quadrotor_navigation)/maps/new_map.yaml"/>
+  <arg name="map_file" default="$(find quadcopter_mapping)/maps/school_map.yaml"/>
   <node name="map_server" pkg="map_server" type="map_server" args="$(arg map_file)" />
 
   <arg name="use_map_topic"   default="false"/>

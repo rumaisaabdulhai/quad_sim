@@ -29,9 +29,7 @@
 
   <node pkg="rosservice" type="rosservice" name="global_log" args="call --wait /enable_motors '{enable: true}'" />
 
-  <!-- <include file="$(find takeoff_land)/launch/takeoff_land.launch"/> -->
-
-  <node pkg="rviz" type="rviz" name="$(anon rviz)" args="$(find quadrotor_navigation)/rviz/mapping.rviz" />
+  <!-- <node pkg="rviz" type="rviz" name="$(anon rviz)" args="$(find quadrotor_navigation)/rviz/mapping.rviz" /> -->
 
 
 </launch>

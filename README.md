@@ -85,7 +85,7 @@ In Terminal Tab 3:
 
 ```bash
 # Runs the code for hovering the drone
-rosrun takeoff_land takeoff_code.py
+roslaunch takeoff_land takeoff_land.launch
 ```
 
 In Terminal Tab 4:
