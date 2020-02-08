@@ -27,7 +27,7 @@ Follow the instructions in the link to install the full version of ROS Kinetic a
 
 ### Installing the Packages
 
-Clone the [hector quadrotor](http://wiki.ros.org/hector_quadrotor) stack into your ~/catkin_ws/src folder:
+Clone the [hector quadcopter](http://wiki.ros.org/hector_quadrotor) stack into your ~/catkin_ws/src folder:
 
 ```bash
  # This package is required for the drone model.
@@ -78,7 +78,7 @@ In Terminal Tab 2:
 
 ```bash
 # Runs the gmapping node which creates a map of the environment
-roslaunch quadrotor_navigation quadrotor_mapping.launch
+roslaunch quadcopter_navigation quadcopter_mapping.launch
 ```
 
 In Terminal Tab 3:
@@ -99,7 +99,7 @@ After Mapping in Terminal Tab 5:
 
 ```bash
 # Saves the map to the desired directory
-rosrun map_server mapsaver -f /home/<username>/catkin_ws/src/quadrotor_navigation/maps/new_map
+rosrun map_server mapsaver -f /home/<username>/catkin_ws/src/quadcopter_navigatipm/maps/new_map
 ```
 
 After map has been saved, close all terminal tabs.
@@ -124,7 +124,7 @@ roslaunch takeoff_land takeoff_land.launch
 In Terminal Tab 3
 ```bash
 # Allows 2D nav goal for navigation in Rviz
-roslaunch quadrotor_navigation quadrotor_move_base.launch
+roslaunch quadcopter_navigation quadcopter_move_base.launch
 ```
 
 Specify a 2D navigation goal in rviz.
