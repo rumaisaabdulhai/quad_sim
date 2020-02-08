@@ -9,7 +9,8 @@
   <arg name="debug" default="false"/>
 
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
-    <arg name="world_name" value="$(find quadcopter_gazebo)/worlds/quadcopter.world"/>
+    <!-- <arg name="world_name" value="$(find quadcopter_gazebo)/worlds/hallways.world"/> -->
+    <arg name="world_name" value="$(find quadcopter_gazebo)/worlds/school.world"/>
     <arg name="paused" value="$(arg paused)"/>
     <arg name="use_sim_time" value="$(arg use_sim_time)"/>
     <arg name="gui" value="$(arg gui)"/>
@@ -18,8 +19,8 @@
   </include>
 
   <include file="$(find hector_quadrotor_gazebo)/launch/spawn_quadrotor.launch">
-    <!-- <arg name="model" value="$(find hector_quadrotor_description)/urdf/quadrotor_hokuyo_utm30lx.gazebo.xacro"/> -->
-    <arg name="model" value="$(find hector_quadrotor_description)/urdf/quadrotor_with_kinect.gazebo.xacro"/>
+    <arg name="model" value="$(find hector_quadrotor_description)/urdf/quadrotor_hokuyo_utm30lx.gazebo.xacro"/>
+    <!-- <arg name="model" value="$(find hector_quadrotor_description)/urdf/quadrotor_with_kinect.gazebo.xacro"/> -->
 
       <arg name="x" default="0.0"/>
       <arg name="y" default="0.0"/>
@@ -32,9 +33,5 @@
 
   <node pkg="rviz" type="rviz" name="$(anon rviz)" args="$(find quadrotor_navigation)/rviz/mapping.rviz" />
 
-
-<!--
- <include file="$(find publish_navdata)/launch/publish_navdata.launch"/> 
--->
 
 </launch>
