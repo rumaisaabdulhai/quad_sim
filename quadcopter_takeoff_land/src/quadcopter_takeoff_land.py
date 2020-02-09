@@ -1,55 +1,78 @@
 #! /usr/bin/env python
 import rospy
-from geometry_msgs.msg import Twist
-from geometry_msgs.msg import PoseStamped
- 
-def takeoff_callback(msg): 
-  z_pos = msg.pose.position.z # the current z position of the drone
+from geometry_msgs.msg import Twist, PoseStamped
+from std_msgs.msg import Empty
 
-  # print("X VELOCITY     ", twist_msg.linear.x)
-  # print("Y VELOCITY     ", twist_msg.linear.y)
+class TakeoffLand():
 
-  # if the current x and y velocities are 0
-  if twist_msg.linear.x == 0 and twist_msg.linear.y == 0:
-    # if the z_pos is between 1 and 1.3 meters, set a small z vel
-    if z_pos > 1 and z_pos < 1.3:
+  def __init__(self):
 
-      print ("                  SLIGHTLY LOW                  ")
-      print
-      twist_msg.linear.z = 0.1
+    rospy.init_node('takeoff_land')
 
-    # if the z_pos is between 1.3 and 1.5 meters, hover
-    elif z_pos > 1.3 and z_pos < 1.5:
-      print ("                    HOVERING                    ")
-      twist_msg.linear.z = 0.0
+    # self.landing = False
+    # self.land_sub = rospy.Subscriber('/quadcopter_land', Empty, self.land_callback)
+
+    # if self.landing == False:
+    self.takeoff_sub = rospy.Subscriber('/ground_truth_to_tf/pose', PoseStamped, self.takeoff_callback)
     
-    # if the z_pos is between 1.5 and 1.8 meters, set a small neg z vel
-    elif z_pos > 1.5 and z_pos < 1.8:
-      print ("                    SLIGHTLY HIGH                    ")
-      twist_msg.linear.z = -0.1
+    self.cmd_vel_pub = rospy.Publisher('/cmd_vel', Twist, queue_size=1)
+      
+    self.twist_msg = Twist()
+    self.pose_msg = PoseStamped()
+    
+    self.rate = rospy.Rate(5)
+    rospy.spin()
 
-    # if the z_pos is greater than 1.8 meters, set a med neg z vel
-    elif z_pos > 1.8:
-      print ("                    OVERSHOT                    ")
-      twist_msg.linear.z = -0.3
+  def takeoff_callback(self,msg):
+    z_pos = msg.pose.position.z # the current z position of the drone
 
-    # if the drone is below 1 meter, takeoff with pos z vel
-    else:
-      print ("                    TAKING OFF                    ")
-      twist_msg.linear.z = 0.3
-  
-    # publish z velocity
-    cmd_vel_pub.publish(twist_msg)
+    # if the current x and y velocities are 0
+    if self.twist_msg.linear.x == 0 and self.twist_msg.linear.y == 0:
+      # if the z_pos is between 1 and 1.3 meters, set a small z vel
+      if z_pos > 1 and z_pos < 1.3:
 
-  # elif twist_msg.linear.x != 0 or twist_msg.linear.y != 0:
-  #   print("          NAVIGATING               ")
-  #   pass
+        print ("                  SLIGHTLY LOW                  ")
+        print
+        self.twist_msg.linear.z = 0.1
 
-rospy.init_node('takeoff_land')
-rate = rospy.Rate(5)
+      # if the z_pos is between 1.3 and 1.5 meters, hover
+      elif z_pos > 1.3 and z_pos < 1.5:
+        print ("                    HOVERING                    ")
+        self.twist_msg.linear.z = 0.0
+      
+      # if the z_pos is between 1.5 and 1.8 meters, set a small neg z vel
+      elif z_pos > 1.5 and z_pos < 1.8:
+        print ("                    SLIGHTLY HIGH                    ")
+        self.twist_msg.linear.z = -0.1
 
-takeoff_sub = rospy.Subscriber('/ground_truth_to_tf/pose', PoseStamped, takeoff_callback)
-cmd_vel_pub = rospy.Publisher('/cmd_vel', Twist, queue_size=1)
+      # if the z_pos is greater than 1.8 meters, set a med neg z vel
+      elif z_pos > 1.8:
+        print ("                    OVERSHOT                    ")
+        self.twist_msg.linear.z = -0.3
 
-twist_msg = Twist()
-rospy.spin()
+      # if the drone is below 1 meter, takeoff with pos z vel
+      else:
+        print ("                    TAKING OFF                    ")
+        self.twist_msg.linear.z = 0.3
+    
+      # publish z velocity
+      self.cmd_vel_pub.publish(self.twist_msg)
+
+  # def land_callback(self,msg):
+
+  #   self.landing = True
+  #   z_pos = self.pose_msg.pose.position.z
+
+  #   if self.twist_msg.linear.x == 0 and self.twist_msg.linear.y == 0:
+  #     if z_pos > 0.3:
+  #       self.twist_msg.linear.z = -0.3
+      
+  #     self.cmd_vel_pub.publish(self.twist_msg)
+  #     print("LANDING")
+
+  #   if z_pos == 0.0:
+  #     rospy.loginfo("System is shutting down. Stopping robot...")
+  #     rospy.signal_shutdown("LANDED")
+    
+if __name__ == '__main__':
+    TakeoffLand()

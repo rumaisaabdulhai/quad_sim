@@ -78,21 +78,21 @@ In Terminal Tab 2:
 
 ```bash
 # Runs the gmapping node which creates a map of the environment
-roslaunch quadcopter_navigation quadcopter_mapping.launch
+roslaunch quadcopter_mapping quadcopter_mapping.launch
 ```
 
 In Terminal Tab 3:
 
 ```bash
 # Runs the code for hovering the drone
-roslaunch takeoff_land takeoff_land.launch
+roslaunch quadcopter_takeoff_land quadcopter_takeoff_land.launch
 ```
 
 In Terminal Tab 4:
 
 ```bash
 # Runs the code for controlling the drone with keyboard
-rosrun takeoff_land quad_teleop.py
+roslaunch quadcopter_teleop quadcopter_teleop.launch
 ```
 
 After Mapping in Terminal Tab 5:
@@ -118,7 +118,7 @@ roslaunch quadcopter_gazebo quadcopter.launch
 In Terminal Tab 2
 ```bash
 # Runs the code for hovering the drone
-roslaunch takeoff_land takeoff_land.launch
+roslaunch quadcopter_takeoff_land quadcopter_takeoff_land.launch
 ```
 
 In Terminal Tab 3
