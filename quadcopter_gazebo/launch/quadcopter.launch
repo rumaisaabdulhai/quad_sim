@@ -29,7 +29,4 @@
 
   <node pkg="rosservice" type="rosservice" name="global_log" args="call --wait /enable_motors '{enable: true}'" />
 
-  <!-- <node pkg="rviz" type="rviz" name="$(anon rviz)" args="$(find quadrotor_navigation)/rviz/mapping.rviz" /> -->
-
-
 </launch>

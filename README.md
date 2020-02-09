@@ -27,7 +27,7 @@ Follow the instructions in the link to install the full version of ROS Kinetic a
 
 ### Installing the Packages
 
-Clone the [hector quadcopter](http://wiki.ros.org/hector_quadrotor) stack into your ~/catkin_ws/src folder:
+Clone the [hector quadrotor](http://wiki.ros.org/hector_quadrotor) stack into your ~/catkin_ws/src folder:
 
 ```bash
  # This package is required for the drone model.
@@ -122,13 +122,13 @@ In Terminal Tab 1:
 roslaunch quadcopter_gazebo quadcopter.launch
 ```
 
-In Terminal Tab 2
+In Terminal Tab 2:
 ```bash
 # Runs the code for hovering the drone
 roslaunch quadcopter_takeoff_land quadcopter_takeoff_land.launch
 ```
 
-In Terminal Tab 3
+In Terminal Tab 3:
 ```bash
 # Runs the rviz visualization tool and allows 2D nav goal for navigation in Rviz
 roslaunch quadcopter_navigation quadcopter_move_base.launch
@@ -144,6 +144,40 @@ rostopic pub quadcopter_land -r 5 std_msgs/Empty "{}"
 ```
 
 Now, you can close all terminal tabs with `CTRL-C`.
+
+---
+
+## Video Streaming
+
+You can view the front camera through Rviz, but you can also use video streaming. Install the [web_video_server](http://wiki.ros.org/web_video_server) package on your laptop:
+
+```bash
+# Installs the video streaming package in the opt folder
+sudo apt-get install ros-kinetic-web-video-server
+```
+
+In order to create the server for the stream, you must be running the Gazebo environment in one Terminal Tab:
+
+```bash
+# Runs the Gazebo world
+roslaunch quadcopter_gazebo quadcopter.launch
+```
+
+In another terminal tab, run the following line to start the server:
+
+```bash
+# Starts the sever
+rosrun web_video_server web_video_server
+```
+
+Now, go to the following [site](http://0.0.0.0:8080/) on your browser. You will see the rostopic for the front camera image. Click on the first link from the left.
+
+You will now see the video stream of the drone from the front camera. You may wish to increase the height and width of the stream or change the type of the stream like so:
+
+http://0.0.0.0:8080/stream_viewer?topic=/front_cam/camera/image&type=mjpeg&width=800&height=600
+
+
+For more information, visit the following [reference](https://msadowski.github.io/ros-web-tutorial-pt3-web_video_server/).
 
 ---
 
