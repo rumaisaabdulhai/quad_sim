@@ -70,14 +70,14 @@ Don't forget to source your terminal:
 In Terminal Tab 1:
 
 ```bash
-# Runs the Gazebo world and rviz visualization tool
+# Runs the Gazebo world
 roslaunch quadcopter_gazebo quadcopter.launch
 ```
 
 In Terminal Tab 2:
 
 ```bash
-# Runs the gmapping node which creates a map of the environment
+# Runs the rviz visualization tool and gmapping node which creates a map of the environment
 roslaunch quadcopter_mapping quadcopter_mapping.launch
 ```
 
@@ -111,7 +111,7 @@ After map has been saved, close all terminal tabs.
 In Terminal Tab 1:
 
 ```bash
-# Runs the Gazebo world and rviz visualization tool
+# Runs the Gazebo world
 roslaunch quadcopter_gazebo quadcopter.launch
 ```
 
@@ -123,7 +123,7 @@ roslaunch quadcopter_takeoff_land quadcopter_takeoff_land.launch
 
 In Terminal Tab 3
 ```bash
-# Allows 2D nav goal for navigation in Rviz
+# Runs the rviz visualization tool and allows 2D nav goal for navigation in Rviz
 roslaunch quadcopter_navigation quadcopter_move_base.launch
 ```
 
