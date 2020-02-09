@@ -106,7 +106,7 @@ After map has been saved, land the drone in Terminal Tab 6:
 
 ```bash
 # Lands the drone
-rostopic pub quadcopter_land -r 5 std_msgs/Empty "{}"
+rostopic pub /quadcopter_land -r 5 std_msgs/Empty "{}"
 ```
 
 Now, you can close all terminal tabs with `CTRL-C`.
@@ -140,7 +140,7 @@ After navigating to the desired goal, land the drone in Terminal Tab 4:
 
 ```bash
 # Lands the drone
-rostopic pub quadcopter_land -r 5 std_msgs/Empty "{}"
+rostopic pub /quadcopter_land -r 5 std_msgs/Empty "{}"
 ```
 
 Now, you can close all terminal tabs with `CTRL-C`.
