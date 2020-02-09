@@ -102,7 +102,14 @@ After Mapping in Terminal Tab 5:
 rosrun map_server mapsaver -f /home/<username>/catkin_ws/src/quadcopter_navigatipm/maps/new_map
 ```
 
-After map has been saved, close all terminal tabs.
+After map has been saved, land the drone in Terminal Tab 6:
+
+```bash
+# Lands the drone
+rostopic pub quadcopter_land -r 5 std_msgs/Empty "{}"
+```
+
+Now, you can close all terminal tabs with `CTRL-C`.
 
 ---
 
@@ -127,7 +134,16 @@ In Terminal Tab 3
 roslaunch quadcopter_navigation quadcopter_move_base.launch
 ```
 
-Specify a 2D navigation goal in rviz.
+Specify a 2D navigation goal in Rviz.
+
+After navigating to the desired goal, land the drone in Terminal Tab 4:
+
+```bash
+# Lands the drone
+rostopic pub quadcopter_land -r 5 std_msgs/Empty "{}"
+```
+
+Now, you can close all terminal tabs with `CTRL-C`.
 
 ---
 
