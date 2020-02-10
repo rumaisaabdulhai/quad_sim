@@ -99,7 +99,7 @@ After Mapping in Terminal Tab 5:
 
 ```bash
 # Saves the map to the desired directory
-rosrun map_server mapsaver -f /home/<username>/catkin_ws/src/quadcopter_navigatipm/maps/new_map
+rosrun map_server mapsaver -f /home/<username>/catkin_ws/src/quadcopter_navigation/maps/new_map
 ```
 
 After map has been saved, land the drone in Terminal Tab 6:
