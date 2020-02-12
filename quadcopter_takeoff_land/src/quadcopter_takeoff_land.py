@@ -177,4 +177,4 @@ class TakeoffLand():
                                                             ############### END OF CLASS ###############
 
 if __name__ == '__main__':
-    TakeoffLand() # Instantiates a TakeoffLand Object.W
+    TakeoffLand() # Instantiates a TakeoffLand Object.
