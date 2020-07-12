@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+
+  <node name="cartographer_node" pkg="cartographer_ros"
+      type="cartographer_node" args="
+          -configuration_directory $(find quadcopter_mapping)/config
+          -configuration_basename quadcopter_cartographer.lua"
+      output="screen">
+  </node>
+
+  <node name="rviz" pkg= "rviz" type="rviz" required="true"
+    args="-d $(find quadcopter_mapping)/rviz/mapping.rviz" />
+
+  <node name="cartographer_occupancy_grid_node" pkg="cartographer_ros"
+      type="cartographer_occupancy_grid_node" args="-resolution 0.05" />
+
+   <node name="robot_pose_publisher"
+            pkg="robot_pose_publisher"
+            type="robot_pose_publisher"
+            respawn="false"
+            output="screen" />
+      <node pkg="tf" type="static_transform_publisher" name="base_to_laser_broadcaster" args="0 0 0 0 0 0 base_link laser 100" />
+
+</launch>
