@@ -45,11 +45,11 @@ Install the [gmapping](http://wiki.ros.org/gmapping) package, [amcl](http://wiki
 
 ## Getting the Code
 
-Clone this [quadcopter_sim](https://github.com/rumaisaabdulhai/quadcopter_sim) package into your ~/catkin_ws/src folder:
+Clone this [quad_sim](https://github.com/rumaisaabdulhai/quad_sim) package into your ~/catkin_ws/src folder:
 
 ```bash
  # This package contains all the code required for mapping and navigation of the drone.
- git clone https://github.com/rumaisaabdulhai/quadcopter_sim.git
+ git clone https://github.com/rumaisaabdulhai/quad_sim.git
 ```
 
 Make sure the catkin_ws builds successfully: (can also use catkin_make)
@@ -99,7 +99,7 @@ After Mapping in Terminal Tab 5:
 
 ```bash
 # Saves the map to the desired directory
-rosrun map_server mapsaver -f /home/<username>/catkin_ws/src/quadcopter_sim/quadcopter_navigation/maps/new_map
+rosrun map_server mapsaver -f /home/<username>/catkin_ws/src/quad_sim/quadcopter_navigation/maps/new_map
 ```
 
 After map has been saved, land the drone in Terminal Tab 6:
