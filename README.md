@@ -27,26 +27,39 @@ Follow the instructions in the link to install the full version of ROS Kinetic a
 
 ### Installing the Packages
 
-Clone the [hector quadrotor](http://wiki.ros.org/hector_quadrotor) stack into your ~/catkin_ws/src folder:
+Clone the [hector_quadrotor](http://wiki.ros.org/hector_quadrotor) stack into your ~/catkin_ws/src folder:
 
 ```bash
  # This package is required for the drone model.
  git clone https://github.com/tu-darmstadt-ros-pkg/hector_quadrotor.git
 ```
 
-Clone the [hector localization](http://wiki.ros.org/hector_localization) stack into your ~/catkin_ws/src folder:
+Clone the [hector_localization](http://wiki.ros.org/hector_localization) stack into your ~/catkin_ws/src folder:
 
 ```bash
  git clone https://github.com/tu-darmstadt-ros-pkg/hector_localization.git
 ```
 
-Clone the [hector gazebo](http://wiki.ros.org/hector_gazebo) stack into your ~/catkin_ws/src folder:
+Clone the [hector_models](http://wiki.ros.org/hector_models) stack into your ~/catkin_ws/src folder:
+
+```bash
+ git clone https://github.com/tu-darmstadt-ros-pkg/hector_models.git
+```
+
+Clone the [hector_gazebo](http://wiki.ros.org/hector_gazebo) stack into your ~/catkin_ws/src folder:
 
 ```bash
  git clone https://github.com/tu-darmstadt-ros-pkg/hector_gazebo.git
 ```
 
-Install the [gmapping](http://wiki.ros.org/gmapping) package, [amcl](http://wiki.ros.org/amcl) package, and [move_base](http://wiki.ros.org/move_base) package required for this project:
+Clone the [rrt_exploration](http://wiki.ros.org/hector_gazebo) package into your ~/catkin_ws/src folder:
+
+```bash
+# This package is used for frontier exploration
+ git clone https://github.com/hasauino/rrt_exploration.git
+```
+
+Install the [gmapping](http://wiki.ros.org/gmapping), [amcl](http://wiki.ros.org/amcl), and [move_base](http://wiki.ros.org/move_base) packages required for this project:
 
 ```bash
  # Packages for mapping, localization, and navigation, respectively
@@ -74,6 +87,47 @@ Don't forget to source your terminal now, and every time you open a new terminal
 ```bash
  source ~/catkin_ws/devel/setup.bash
 ```
+
+---
+
+## Running the code for Exploration
+
+In Terminal Tab 1:
+
+```bash
+# Runs the Gazebo world
+roslaunch quadcopter_gazebo quadcopter.launch
+```
+
+In Terminal Tab 2:
+
+```bash
+# Runs the code for hovering the drone
+roslaunch quadcopter_takeoff_land quadcopter_takeoff_land.launch
+```
+
+In Terminal Tab 3:
+
+```bash
+# Runs the code for frontier exploration, rviz, gmapping, and move_base
+roslaunch quadcopter_exploration quadcopter_exploration.launch
+```
+
+After Mapping in Terminal Tab 4:
+
+```bash
+# Saves the map to the desired directory
+rosrun map_server mapsaver -f /home/<username>/catkin_ws/src/quad_sim/quadcopter_navigation/maps/new_map
+```
+
+After map has been saved, land the drone in Terminal Tab 5:
+
+```bash
+# Lands the drone
+rostopic pub /quadcopter_land -r 5 std_msgs/Empty "{}"
+```
+
+Now, you can close all terminal tabs with `CTRL-C`.
 
 ---
 
@@ -266,6 +320,10 @@ https://youtu.be/n6RjVbh3Vgc
 Quadcopter Path Planning:
 
 https://youtu.be/JZqVPgu0KIw
+
+Frontier Exploration:
+
+http://wiki.ros.org/rrt_exploration/Tutorials
 
 ---
 
