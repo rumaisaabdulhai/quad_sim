@@ -34,6 +34,18 @@ Clone the [hector quadrotor](http://wiki.ros.org/hector_quadrotor) stack into yo
  git clone https://github.com/tu-darmstadt-ros-pkg/hector_quadrotor.git
 ```
 
+Clone the [hector localization](http://wiki.ros.org/hector_localization) stack into your ~/catkin_ws/src folder:
+
+```bash
+ git clone https://github.com/tu-darmstadt-ros-pkg/hector_localization.git
+```
+
+Clone the [hector gazebo](http://wiki.ros.org/hector_gazebo) stack into your ~/catkin_ws/src folder:
+
+```bash
+ git clone https://github.com/tu-darmstadt-ros-pkg/hector_gazebo.git
+```
+
 Install the [gmapping](http://wiki.ros.org/gmapping) package, [amcl](http://wiki.ros.org/amcl) package, and [move_base](http://wiki.ros.org/move_base) package required for this project:
 
 ```bash
@@ -58,7 +70,7 @@ Make sure the catkin_ws builds successfully: (can also use catkin_make)
  catkin build
 ```
 
-Don't forget to source your terminal:
+Don't forget to source your terminal now, and every time you open a new terminal tab:
 ```bash
  source ~/catkin_ws/devel/setup.bash
 ```
