@@ -25,6 +25,8 @@
       <arg name="x" default="0.0"/>
       <arg name="y" default="0.0"/>
       <arg name="z" default="0.3"/>
+      <!-- If using cartographer -->
+      <arg name="use_ground_truth_for_tf" default="false"/>
   </include>
 
   <node pkg="rosservice" type="rosservice" name="global_log" args="call --wait /enable_motors '{enable: true}'" />
