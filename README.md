@@ -27,37 +27,24 @@ Follow the instructions in the link to install the full version of ROS Kinetic a
 
 ### Installing the Packages
 
-Clone the [hector_quadrotor](http://wiki.ros.org/hector_quadrotor) stack into your ~/catkin_ws/src folder:
+Clone the [hector_quadrotor](http://wiki.ros.org/hector_quadrotor), [hector_localization](http://wiki.ros.org/hector_localization), [hector_models](http://wiki.ros.org/hector_models), and [hector_gazebo](http://wiki.ros.org/hector_gazebo) stacks into your ~/catkin_ws/src folder:
 
 ```bash
- # This package is required for the drone model.
+ # Required for the drone model.
  git clone https://github.com/tu-darmstadt-ros-pkg/hector_quadrotor.git
-```
-
-Clone the [hector_localization](http://wiki.ros.org/hector_localization) stack into your ~/catkin_ws/src folder:
-
-```bash
  git clone https://github.com/tu-darmstadt-ros-pkg/hector_localization.git
-```
-
-Clone the [hector_models](http://wiki.ros.org/hector_models) stack into your ~/catkin_ws/src folder:
-
-```bash
  git clone https://github.com/tu-darmstadt-ros-pkg/hector_models.git
-```
-
-Clone the [hector_gazebo](http://wiki.ros.org/hector_gazebo) stack into your ~/catkin_ws/src folder:
-
-```bash
  git clone https://github.com/tu-darmstadt-ros-pkg/hector_gazebo.git
 ```
 
 Clone the [rrt_exploration](http://wiki.ros.org/hector_gazebo) package into your ~/catkin_ws/src folder:
 
 ```bash
-# This package is used for frontier exploration
+# Used for frontier exploration
  git clone https://github.com/hasauino/rrt_exploration.git
 ```
+
+Run this [script](https://gist.github.com/kdaun/51b7d19bbcd5e0798c8415cd093078fb) in your ~/catkin_ws folder for installing [Cartographer](https://google-cartographer-ros.readthedocs.io/en/latest/index.html).
 
 Install the [gmapping](http://wiki.ros.org/gmapping), [amcl](http://wiki.ros.org/amcl), and [move_base](http://wiki.ros.org/move_base) packages required for this project:
 
@@ -86,6 +73,11 @@ Make sure the catkin_ws builds successfully: (can also use catkin_make)
 Don't forget to source your terminal now, and every time you open a new terminal tab:
 ```bash
  source ~/catkin_ws/devel/setup.bash
+```
+
+If running cartographer, source this as well when in the ~/catkin_ws directory:
+```bash
+ source install_isolated/setup.bash
 ```
 
 ---
