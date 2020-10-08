@@ -109,7 +109,7 @@ After Mapping in Terminal Tab 4:
 
 ```bash
 # Saves the map to the desired directory
-rosrun map_server mapsaver -f /home/<username>/catkin_ws/src/quad_sim/quadcopter_navigation/maps/new_map
+rosrun map_server mapsaver -f /home/<username>/catkin_ws/src/quad_sim/quadcopter_mapping/maps/new_map
 ```
 
 After map has been saved, land the drone in Terminal Tab 5:
@@ -136,7 +136,7 @@ In Terminal Tab 2:
 
 ```bash
 # Runs the rviz visualization tool and gmapping node which creates a map of the environment
-roslaunch quadcopter_mapping quadcopter_mapping.launch
+roslaunch quadcopter_mapping quadcopter_gmapping.launch
 ```
 
 In Terminal Tab 3:
@@ -321,4 +321,6 @@ http://wiki.ros.org/rrt_exploration/Tutorials
 
 ## Questions
 
-If you have any questions or find any bugs with the code, feel free to email me at rabdulhai@wpi(dot)edu.
+If you have any questions or find any bugs with the code, feel free to create an issue in this repository with a screenshot of the error you have. Please be as specific as you can with details, such as what OS or version of ROS you are using and what steps you have taken so far.
+
+You can also email me at [rabdulhai@wpi.edu](mailto:rabdulhai@wpi.edu).
