@@ -1,0 +1,7 @@
+image: /home/rumaisa/catkin_ws/src/quad_sim/quadcopter_mapping/maps/complex_gmapping_frontier.pgm
+resolution: 0.100000
+origin: [-49.800000, -46.600000, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
