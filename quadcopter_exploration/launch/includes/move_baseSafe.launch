@@ -12,8 +12,8 @@
     <arg name="odom_topic" default="/ground_truth/state" />
 
     <node pkg="gmapping" type="slam_gmapping" name="slam_gmapping" output="screen" >
-      <param name="map_frame" value="$(arg namespace)/map"/>
-      <param name="base_frame" value="$(arg namespace)/$(arg base_frame)"/>
+      <param name="map_frame" value="map"/>
+      <param name="base_frame" value="$(arg base_frame)"/>
       <param name="odom_frame" value="$(arg namespace)/$(arg odom_frame)"/>
       <param name="map_update_interval" value="2.0"/>
       <param name="maxUrange" value="50.0"/>
@@ -72,14 +72,14 @@
     <!-- external params file that could be loaded into the move_base namespace -->
     <rosparam file="$(arg custom_param_file)" command="load" />
 
-    <param name="global_costmap/global_frame" value="$(arg namespace)/map"/>
+    <param name="global_costmap/global_frame" value="map"/>
 
-    <param name="global_costmap/robot_base_frame" value="$(arg namespace)/$(arg base_frame)"/>
-    <param name="global_costmap/laser_scan_sensor/sensor_frame" value="/$(arg namespace)/$(arg base_frame)"/>
+    <param name="global_costmap/robot_base_frame" value="$(arg base_frame)"/>
+    <param name="global_costmap/laser_scan_sensor/sensor_frame" value="$(arg base_frame)"/>
     <param name="global_costmap/laser_scan_sensor/topic" value="/$(arg namespace)/scan"/>    
     <param name="local_costmap/global_frame" value="$(arg namespace)/$(arg odom_frame)"/>
-    <param name="local_costmap/robot_base_frame" value="$(arg namespace)/$(arg base_frame)"/>
-    <param name="local_costmap/laser_scan_sensor/sensor_frame" value="$(arg namespace)/$(arg base_frame)"/>
+    <param name="local_costmap/robot_base_frame" value="$(arg base_frame)"/>
+    <param name="local_costmap/laser_scan_sensor/sensor_frame" value="$(arg base_frame)"/>
     <param name="local_costmap/laser_scan_sensor/topic" value="/$(arg namespace)/$(arg scan_topic)"/>
     <param name="local_costmap/obstacle_layer/laser_scan_sensor/topic" value="/$(arg namespace)/$(arg scan_topic)"/>
     <param name="DWAPlannerROS/global_frame_id" value="/$(arg namespace)/$(arg odom_frame)"/>

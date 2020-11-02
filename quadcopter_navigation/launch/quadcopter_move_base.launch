@@ -35,9 +35,9 @@
     <param name="local_costmap/robot_base_frame" value="$(arg base_frame_id)"/>
     <param name="DWAPlannerROS/global_frame_id" value="$(arg odom_frame_id)"/>
 
-    <param name="global_costmap/laser_scan_sensor/sensor_frame" value="/$(arg base_frame_id)"/>
+    <param name="global_costmap/laser_scan_sensor/sensor_frame" value="$(arg base_frame_id)"/>
     <param name="global_costmap/laser_scan_sensor/topic" value="/scan"/>    
-    <param name="local_costmap/laser_scan_sensor/sensor_frame" value="/$(arg base_frame_id)"/>
+    <param name="local_costmap/laser_scan_sensor/sensor_frame" value="$(arg base_frame_id)"/>
     <param name="local_costmap/laser_scan_sensor/topic" value="/$(arg laser_topic)"/>
     <param name="local_costmap/obstacle_layer/laser_scan_sensor/topic" value="/$(arg laser_topic)"/>
 
