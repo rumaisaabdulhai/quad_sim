@@ -6,7 +6,7 @@ Student at Massachsetts Academy of Math & Science at WPI
 
 ## Motivation
 
-In the summer of 2019, I attended the MIT Beaverworks (BWSI) UAV Racing Course where I used an Intel RTF research drone to build an autonomous drone application. I gained a practical understanding of the Intel compute board, the Robot Operating System (ROS), the PX4 flight controller, and the sensors, including cameras which allowed the drone to hover with stability at specified heights, identify AR markers on obstacles (for basic obstacle avoidance), and navigate a curved path successfully. My team won first place in the final UAV racing competition, with a time of 1 minute and 32 seconds. The BWSI program encouraged me to start building my own indoor autonomous drone application. I would like to thank my instructors Ross Allen and Mark Mazumder for motivating me to embark on this project.
+In the summer of 2019, I attended the MIT Beaver Works (BWSI) UAV Racing Course where I used an Intel RTF research drone to build an autonomous drone application. I gained a practical understanding of the Intel compute board, the Robot Operating System (ROS), the PX4 flight controller, and the sensors, including cameras which allowed the drone to hover with stability at specified heights, identify AR markers on obstacles (for basic obstacle avoidance), and navigate a curved path successfully. My team won first place in the final UAV racing competition, with a time of 1 minute and 32 seconds. BWSI encouraged me to start building my own indoor autonomous drone application. I would like to thank my instructors Ross Allen and Mark Mazumder for motivating me to embark on this project.
 
 ## Introduction
 
@@ -24,6 +24,30 @@ I am currently working on:
 3) Integrating the PX4 flight controller to be able to test this project in real life.
 
 **Note**: There are two versions of this package. The first is compatible with ROS Kinetic and Ubuntu 16.04, and the second is compatible with ROS Melodic and Ubuntu 18.04. The Melodic version is also the master code. I am no longer maintaining the kinetic version, but I am currently working on the melodic version. Please see above for what you can do with each version.
+
+You can view my [thesis](http://users.wpi.edu/~rabdulhai/docs/Thesis.pdf) here.
+
+---
+
+## Table of Contents
+
+1. [Installation](#installation)
+    - [Getting ROS](#getting-ros)
+    - [Installing the Packages](#installing-the-packages)
+    - [Getting the Code](#getting-the-code)
+2. [Mapping](#mapping)
+    - [Gmapping with Teleop](#gmapping-with-teleop)
+    - [Gmapping with Frontier Exploration](#gmapping-with-frontier-exploration)
+    - [Google Cartographer with Teleop](#google-cartographer-with-teleop)
+3. [Navigation with move_base](#navigation-with-move_base)
+4. [Video Streaming](#video-streaming)
+5. [Results](#results)
+6. [Demos](#demos)
+7. [Behind the Code](#behind-the-code)
+    - [Mapping Phase](#mapping-phase)
+    - [Navigation Phase](#navigation-phase)
+8. [Recommended Links](#recommended-links)
+9. [Questions](#questions)
 
 ---
 
@@ -59,14 +83,26 @@ Install the [gmapping](http://wiki.ros.org/gmapping), [amcl](http://wiki.ros.org
 
 ```bash
  # Packages for mapping, localization, and navigation, respectively
- sudo apt-get install ros-kinetic-gmapping ros-kinetic-amcl ros-kinetic-move-base
+ sudo apt-get install ros-${ROS_DISTRO}-gmapping ros-${ROS_DISTRO}-amcl ros-${ROS_DISTRO}-move-base
 ```
 
-Follow these [instructions](https://google-cartographer-ros.readthedocs.io/en/latest/compilation.html) to get google cartographer (ROS Melodic only).
+Follow these [instructions](https://google-cartographer-ros.readthedocs.io/en/latest/compilation.html) to get google cartographer (ROS Melodic only). Do not forget to source your terminal if using cartographer: 
+
+```bash
+ # Run command in every terminal you want to use cartographer in
+ source install_isolated/setup.bash
+```
+
+You may also need to install these packages (ROS Melodic):
+
+```bash
+sudo apt-get install ros-melodic-map-server
+sudo apt-get install ros-indigo-dwa-local-planner
+```
 
 ---
 
-## Getting the Code
+### Getting the Code
 
 Clone this [quad_sim](https://github.com/rumaisaabdulhai/quad_sim) package into your ~/catkin_ws/src folder:
 
@@ -88,7 +124,11 @@ Don't forget to source your terminal now, and every time you open a new terminal
 
 ---
 
-## Mapping: Gmapping with Teleop
+## Mapping
+
+This section will go over the different methods of mapping possible with the quadcopter.
+
+### Gmapping with Teleop
 
 These instructions work with both ROS Kinetic and Melodic.
 
@@ -140,7 +180,7 @@ Now, you can close all terminal tabs with `CTRL-C`.
 
 ---
 
-## Mapping: Gmapping with Frontier Exploration
+### Gmapping with Frontier Exploration
 
 At the moment, these instructions will only work for ROS Kinetic. I am getting it to work for ROS Melodic.
 
@@ -185,7 +225,7 @@ Now, you can close all terminal tabs with `CTRL-C`.
 
 ---
 
-## Mapping: Google Cartographer with Teleop
+### Google Cartographer with Teleop
 
 These instructions only work with ROS Melodic.
 
@@ -334,7 +374,7 @@ This image shows the drone navigating to the goal:
 
 ## Demos
 
-Click this [link](https://drive.google.com/open?id=1zvveXdScOxd2hiGnyvaLpDm5zXCi5mQ_) to view the demos for the mapping and navigation. Each video is about 3 minutes long.
+Please visit my [YouTube Channel](https://www.youtube.com/channel/UCfvje9FSd2gTdbsGxQ2Hmqg) to view demonstrations of each component.
 
 ---
 
@@ -358,33 +398,18 @@ Both nodes are required for the drone to successfully navigate from the source p
 
 I used some of these links to make this package, so feel free to reference them if you want to know more about how the files work together.
 
-ROS Tutorials:
+1. [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials)
+2. [Gazebo Environment](http://gazebosim.org/tutorials?tut=model_editor)
+3. [Gazebo/ROS Project with Terrestrial Robot](http://moorerobots.com/blog)
+4. [Mapping with Quadcopter and Laser](https://youtu.be/dND4oCMqmRs)
+5. [Quadcopter Localization](https://youtu.be/n6RjVbh3Vgc)
+6. [Quadcopter Path Planning](https://youtu.be/JZqVPgu0KIw)
+7. [Frontier Exploration](http://wiki.ros.org/rrt_exploration/Tutorials)
 
-http://wiki.ros.org/ROS/Tutorials
+These links are also helpful (ROS Melodic):
 
-Gazebo Environment:
-
-http://gazebosim.org/tutorials?tut=model_editor
-
-Gazebo/ROS Project with Terrestrial Robot:
-
-http://moorerobots.com/blog
-
-Mapping with Quadcopter and Laser:
-
-https://youtu.be/dND4oCMqmRs
-
-Quadcopter Localization:
-
-https://youtu.be/n6RjVbh3Vgc
-
-Quadcopter Path Planning:
-
-https://youtu.be/JZqVPgu0KIw
-
-Frontier Exploration:
-
-http://wiki.ros.org/rrt_exploration/Tutorials
+- [REST request issue](https://github.com/ros-industrial/universal_robot/issues/412)
+- [canTransform issue](https://github.com/ros-planning/navigation/issues/794)
 
 ---
 
