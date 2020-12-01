@@ -1,18 +1,53 @@
 # Quadcopter Simulation
 
-Made by Rumaisa Abdulhai
+Developed by Rumaisa Abdulhai (Dec 2019 - Present)
 
 Student at Massachsetts Academy of Math & Science at WPI
 
 ## Motivation
 
-In the summer of 2019, I attended the MIT Beaverworks (BWSI) UAV Racing Course where I used an Intel RTF research drone to build an autonomous drone application. I gained a practical understanding of the Intel compute board, the Robot Operating System (ROS), the PX4 flight controller, and the sensors, including cameras which allowed the drone to hover with stability at specified heights, identify AR markers on obstacles (for basic obstacle avoidance), and navigate a curved path successfully. My team won first place in the final UAV racing competition, with a time of 1 minute and 32 seconds. The BWSI program encouraged me to start building my own indoor autonomous drone application. I would like to thank my instructors Ross Allen and Mark Mazumder for motivating me to embark on this project.
+In the summer of 2019, I attended the MIT Beaver Works (BWSI) UAV Racing Course where I used an Intel RTF research drone to build an autonomous drone application. I gained a practical understanding of the Intel compute board, the Robot Operating System (ROS), the PX4 flight controller, and the sensors, including cameras which allowed the drone to hover with stability at specified heights, identify AR markers on obstacles (for basic obstacle avoidance), and navigate a curved path successfully. My team won first place in the final UAV racing competition, with a time of 1 minute and 32 seconds. BWSI encouraged me to start building my own indoor autonomous drone application. I would like to thank my instructors Ross Allen and Mark Mazumder for motivating me to embark on this project.
 
 ## Introduction
 
-This repository uses a quadcopter to map a simple gazebo environment using the gmapping SLAM algorithm and allows the drone to autonomously navigate from one point to another using the move_base node. The drone model with a laser sensor has been tested to follow these tasks, but a drone model with a kinect depth camera performing these tasks is a currently a work in progress.
+This repository allows a quadcopter with a Hokuyo 2D lidar to:
 
-**Note**: A linux machine running ROS Kinetic and Ubuntu 16.04 were used to make this package. This code is not guaranteed to work for other ROS versions, but many packages used in this project are available in other ROS distros.
+1) Map an indoor gazebo environment using the gmapping SLAM algorithm and teleoperation (ROS Kinetic and Melodic)
+2) Map an indoor gazebo environment using the google cartographer SLAM algorithm and teleoperation (ROS Melodic)
+4) Map an indoor gazebo environment using the gmapping SLAM algorithm and frontier exploration (ROS Kinetic)
+3) Autonomously navigate from one location to another using the move_base node (ROS Kinetic and Melodic)
+
+I am currently working on:
+
+1) Improving the mapping component of this project with frontier exploration. I also hope to integrate frontier exploration with google cartographer.
+2) Improving the navigation component of this project by possibly using a depth camera instead of a 2D lidar sensor.
+3) Integrating the PX4 flight controller to be able to test this project in real life.
+
+**Note**: There are two versions of this package. The first is compatible with ROS Kinetic and Ubuntu 16.04, and the second is compatible with ROS Melodic and Ubuntu 18.04. The Melodic version is also the master code. I am no longer maintaining the kinetic version, but I am currently working on the melodic version. Please see above for what you can do with each version.
+
+You can view my [thesis](http://users.wpi.edu/~rabdulhai/docs/Thesis.pdf) here.
+
+---
+
+## Table of Contents
+
+1. [Installation](#installation)
+    - [Getting ROS](#getting-ros)
+    - [Installing the Packages](#installing-the-packages)
+    - [Getting the Code](#getting-the-code)
+2. [Mapping](#mapping)
+    - [Gmapping with Teleop](#gmapping-with-teleop)
+    - [Gmapping with Frontier Exploration](#gmapping-with-frontier-exploration)
+    - [Google Cartographer with Teleop](#google-cartographer-with-teleop)
+3. [Navigation with move_base](#navigation-with-move_base)
+4. [Video Streaming](#video-streaming)
+5. [Results](#results)
+6. [Demos](#demos)
+7. [Behind the Code](#behind-the-code)
+    - [Mapping Phase](#mapping-phase)
+    - [Navigation Phase](#navigation-phase)
+8. [Recommended Links](#recommended-links)
+9. [Questions](#questions)
 
 ---
 
@@ -22,8 +57,8 @@ This section will cover installing ROS as well as the required packages for the 
 
 ### Getting ROS
 
-Follow the instructions in the link to install the full version of ROS Kinetic and make a catkin_ws folder:
-[http://wiki.ros.org/kinetic/Installation/Ubuntu](http://wiki.ros.org/kinetic/Installation/Ubuntu)
+Follow the instructions in one of the links to install the full version of ROS [Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu) 
+or [Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu) and make a catkin_ws folder.
 
 ### Installing the Packages
 
@@ -44,18 +79,30 @@ Clone the [rrt_exploration](http://wiki.ros.org/hector_gazebo) package into your
  git clone https://github.com/hasauino/rrt_exploration.git
 ```
 
-Run this [script](https://gist.github.com/kdaun/51b7d19bbcd5e0798c8415cd093078fb) in your ~/catkin_ws folder for installing [Cartographer](https://google-cartographer-ros.readthedocs.io/en/latest/index.html).
-
 Install the [gmapping](http://wiki.ros.org/gmapping), [amcl](http://wiki.ros.org/amcl), and [move_base](http://wiki.ros.org/move_base) packages required for this project:
 
 ```bash
  # Packages for mapping, localization, and navigation, respectively
- sudo apt-get install ros-kinetic-gmapping ros-kinetic-amcl ros-kinetic-move-base
+ sudo apt-get install ros-${ROS_DISTRO}-gmapping ros-${ROS_DISTRO}-amcl ros-${ROS_DISTRO}-move-base
+```
+
+Follow these [instructions](https://google-cartographer-ros.readthedocs.io/en/latest/compilation.html) to get google cartographer (ROS Melodic only). Do not forget to source your terminal if using cartographer: 
+
+```bash
+ # Run command in every terminal you want to use cartographer in
+ source install_isolated/setup.bash
+```
+
+You may also need to install these packages (ROS Melodic):
+
+```bash
+sudo apt-get install ros-melodic-map-server
+sudo apt-get install ros-indigo-dwa-local-planner
 ```
 
 ---
 
-## Getting the Code
+### Getting the Code
 
 Clone this [quad_sim](https://github.com/rumaisaabdulhai/quad_sim) package into your ~/catkin_ws/src folder:
 
@@ -64,7 +111,7 @@ Clone this [quad_sim](https://github.com/rumaisaabdulhai/quad_sim) package into 
  git clone https://github.com/rumaisaabdulhai/quad_sim.git
 ```
 
-Make sure the catkin_ws builds successfully: (can also use catkin_make)
+Make sure the catkin_ws builds successfully (can also use catkin_make):
 ```bash
  cd ~/catkin_ws
  catkin build
@@ -75,55 +122,17 @@ Don't forget to source your terminal now, and every time you open a new terminal
  source ~/catkin_ws/devel/setup.bash
 ```
 
-If running cartographer, source this as well when in the ~/catkin_ws directory:
-```bash
- source install_isolated/setup.bash
-```
-
 ---
 
-## Running the code for Exploration
+## Mapping
 
-In Terminal Tab 1:
+This section will go over the different methods of mapping possible with the quadcopter.
 
-```bash
-# Runs the Gazebo world
-roslaunch quadcopter_gazebo quadcopter.launch
-```
+### Gmapping with Teleop
 
-In Terminal Tab 2:
+These instructions work with both ROS Kinetic and Melodic.
 
-```bash
-# Runs the code for hovering the drone
-roslaunch quadcopter_takeoff_land quadcopter_takeoff_land.launch
-```
-
-In Terminal Tab 3:
-
-```bash
-# Runs the code for frontier exploration, rviz, gmapping, and move_base
-roslaunch quadcopter_exploration quadcopter_exploration.launch
-```
-
-After Mapping in Terminal Tab 4:
-
-```bash
-# Saves the map to the desired directory
-rosrun map_server mapsaver -f /home/<username>/catkin_ws/src/quad_sim/quadcopter_mapping/maps/new_map
-```
-
-After map has been saved, land the drone in Terminal Tab 5:
-
-```bash
-# Lands the drone
-rostopic pub /quadcopter_land -r 5 std_msgs/Empty "{}"
-```
-
-Now, you can close all terminal tabs with `CTRL-C`.
-
----
-
-## Running the code for Mapping
+Make sure `use_ground_truth_for_tf` is set to `true` in the `quadcopter_gazebo/quadcopter.launch` file.
 
 In Terminal Tab 1:
 
@@ -157,7 +166,7 @@ After Mapping in Terminal Tab 5:
 
 ```bash
 # Saves the map to the desired directory
-rosrun map_server map_saver -f /home/<username>/catkin_ws/src/quad_sim/quadcopter_navigation/maps/new_map
+rosrun map_server map_saver -f /home/<username>/catkin_ws/src/quad_sim/quadcopter_mapping/maps/new_map
 ```
 
 After map has been saved, land the drone in Terminal Tab 6:
@@ -171,7 +180,108 @@ Now, you can close all terminal tabs with `CTRL-C`.
 
 ---
 
-## Running the code for Navigation
+### Gmapping with Frontier Exploration
+
+At the moment, these instructions will only work for ROS Kinetic. I am getting it to work for ROS Melodic.
+
+Make sure `use_ground_truth_for_tf` is set to `true` in the `quadcopter_gazebo/quadcopter.launch` file.
+
+In Terminal Tab 1:
+
+```bash
+# Runs the Gazebo world
+roslaunch quadcopter_gazebo quadcopter.launch
+```
+
+In Terminal Tab 2:
+
+```bash
+# Runs the code for hovering the drone
+roslaunch quadcopter_takeoff_land quadcopter_takeoff_land.launch
+```
+
+In Terminal Tab 3:
+
+```bash
+# Runs the code for frontier exploration, rviz, gmapping, and move_base
+roslaunch quadcopter_exploration quadcopter_exploration.launch
+```
+
+After Mapping in Terminal Tab 4:
+
+```bash
+# Saves the map to the desired directory
+rosrun map_server map_saver -f /home/<username>/catkin_ws/src/quad_sim/quadcopter_mapping/maps/new_map
+```
+
+After map has been saved, land the drone in Terminal Tab 5:
+
+```bash
+# Lands the drone
+rostopic pub /quadcopter_land -r 5 std_msgs/Empty "{}"
+```
+
+Now, you can close all terminal tabs with `CTRL-C`.
+
+---
+
+### Google Cartographer with Teleop
+
+These instructions only work with ROS Melodic.
+
+Make sure `use_ground_truth_for_tf` is set to `false` in the `quadcopter_gazebo/quadcopter.launch` file.
+
+In Terminal Tab 1:
+
+```bash
+# Runs the Gazebo world
+roslaunch quadcopter_gazebo quadcopter.launch
+```
+
+In Terminal Tab 2:
+
+```bash
+# Runs the rviz visualization tool and cartographer node which creates a map of the environment
+roslaunch quadcopter_mapping quadcopter_cartographer.launch
+```
+
+In Terminal Tab 3:
+
+```bash
+# Runs the code for hovering the drone
+roslaunch quadcopter_takeoff_land quadcopter_takeoff_land.launch
+```
+
+In Terminal Tab 4:
+
+```bash
+# Runs the code for controlling the drone with keyboard
+roslaunch quadcopter_teleop quadcopter_teleop.launch
+```
+
+After Mapping in Terminal Tab 5:
+
+```bash
+# Saves the map to the desired directory
+rosrun map_server map_saver -f /home/<username>/catkin_ws/src/quad_sim/quadcopter_mapping/maps/new_map
+```
+
+After map has been saved, land the drone in Terminal Tab 6:
+
+```bash
+# Lands the drone
+rostopic pub /quadcopter_land -r 5 std_msgs/Empty "{}"
+```
+
+Now, you can close all terminal tabs with `CTRL-C`.
+
+---
+
+## Navigation with move_base
+
+These instructions work with both ROS Kinetic and Melodic.
+
+Make sure `use_ground_truth_for_tf` is set to `true` in the `quadcopter_gazebo/quadcopter.launch` file.
 
 In Terminal Tab 1:
 
@@ -234,7 +344,6 @@ You will now see the video stream of the drone from the front camera. You may wi
 
 http://0.0.0.0:8080/stream_viewer?topic=/front_cam/camera/image&type=mjpeg&width=800&height=600
 
-
 For more information, visit the following [reference](https://msadowski.github.io/ros-web-tutorial-pt3-web_video_server/).
 
 ---
@@ -265,7 +374,7 @@ This image shows the drone navigating to the goal:
 
 ## Demos
 
-Click this [link](https://drive.google.com/open?id=1zvveXdScOxd2hiGnyvaLpDm5zXCi5mQ_) to view the demos for the mapping and navigation. Each video is about 3 minutes long.
+Please visit my [YouTube Channel](https://www.youtube.com/channel/UCfvje9FSd2gTdbsGxQ2Hmqg) to view demonstrations of each component.
 
 ---
 
@@ -289,33 +398,18 @@ Both nodes are required for the drone to successfully navigate from the source p
 
 I used some of these links to make this package, so feel free to reference them if you want to know more about how the files work together.
 
-ROS Tutorials:
+1. [ROS Tutorials](http://wiki.ros.org/ROS/Tutorials)
+2. [Gazebo Environment](http://gazebosim.org/tutorials?tut=model_editor)
+3. [Gazebo/ROS Project with Terrestrial Robot](http://moorerobots.com/blog)
+4. [Mapping with Quadcopter and Laser](https://youtu.be/dND4oCMqmRs)
+5. [Quadcopter Localization](https://youtu.be/n6RjVbh3Vgc)
+6. [Quadcopter Path Planning](https://youtu.be/JZqVPgu0KIw)
+7. [Frontier Exploration](http://wiki.ros.org/rrt_exploration/Tutorials)
 
-http://wiki.ros.org/ROS/Tutorials
+These links are also helpful (ROS Melodic):
 
-Gazebo Environment:
-
-http://gazebosim.org/tutorials?tut=model_editor
-
-Gazebo/ROS Project with Terrestrial Robot:
-
-http://moorerobots.com/blog
-
-Mapping with Quadcopter and Laser:
-
-https://youtu.be/dND4oCMqmRs
-
-Quadcopter Localization:
-
-https://youtu.be/n6RjVbh3Vgc
-
-Quadcopter Path Planning:
-
-https://youtu.be/JZqVPgu0KIw
-
-Frontier Exploration:
-
-http://wiki.ros.org/rrt_exploration/Tutorials
+- [REST request issue](https://github.com/ros-industrial/universal_robot/issues/412)
+- [canTransform issue](https://github.com/ros-planning/navigation/issues/794)
 
 ---
 
