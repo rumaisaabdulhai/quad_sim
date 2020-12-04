@@ -5,7 +5,7 @@
   <arg name="base_frame"  default="base_footprint"/>
   <arg name="odom_frame"  default="world"/>
 
-  <node pkg="rviz" type="rviz" name="$(anon rviz)" args="$(find quadcopter_mapping)/rviz/mapping.rviz" />
+  <node pkg="rviz" type="rviz" name="$(anon rviz)" args="-d $(find quadcopter_mapping)/rviz/gmapping.rviz" />
 
   <node pkg="gmapping" type="slam_gmapping" name="slam_gmapping" output="screen">
     <param name="base_frame" value="$(arg base_frame)"/>
