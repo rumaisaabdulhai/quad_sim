@@ -1,6 +1,6 @@
-# Quadcopter Simulation
+# Autonomous Indoor Drone Application
 
-Developed by Rumaisa Abdulhai (Dec 2019 - Present)
+Developed by Rumaisa Abdulhai (Aug 2019 - Present)
 
 Student at Massachsetts Academy of Math & Science at WPI
 
