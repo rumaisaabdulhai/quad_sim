@@ -376,6 +376,15 @@ This image shows the drone navigating to the goal:
 
 Please visit my [YouTube Channel](https://www.youtube.com/channel/UCfvje9FSd2gTdbsGxQ2Hmqg) to view demonstrations of each component.
 
+1. [Mapping - GMapping, Teleop, Simple Env (Dec 2019)](https://youtu.be/1V5ocwOdLMg)
+2. [Navigation - Move Base, Simple Env (Dec 2019)](https://youtu.be/QdkYYYw5Tec)
+3. [Massachusetts Science Fair (April 2020 - Overview Video)]()
+4. [Mapping - GMapping, Teleop, Complex Env (Mar 2020)](https://youtu.be/-c8N1ncmt2Q)
+5. [Navigation w/ live streaming - Move Base, Complex Env (Mar 2020)](https://youtu.be/JbNfKr267cY)
+6. [Mapping - GMapping, RRT Exploration, Simple Env (Jul 2020)](https://youtu.be/SNdfzReCWJQ)
+7. [Mapping - Google Cartographer, Teleoperation, Complex Env (Nov 2020)](https://youtu.be/KcQ23XDVEuY)
+8. [Navigation - Move Base, Complex Env with Cartographer Map (Nov 2020)](https://youtu.be/saH9n_xpQXI)
+
 ---
 
 ## Behind the Code
