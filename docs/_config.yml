@@ -2,3 +2,26 @@ title: "Quad Sim"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Quad Sim on GitHub":
+    - "//github.com/rumaisaabdulhai/quad_sim"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+# Heading anchor links appear on hover over h1-h6 tags in page content
+# allowing users to deep link to a particular heading on a page.
+#
+# Supports true (default) or false
+heading_anchors: true
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2019-2021 Rumaisa Abdulhai. Distributed by an <a href=\"https://github.com/rumaisaabdulhai/quad_sim/blob/master/LICENSE\">MIT license.</a>"
