@@ -1,9 +1,3 @@
----
-title: About
-has_children: false
-nav_order: 1
----
-
 # Autonomous Indoor Drone Application
 
 Developed by Rumaisa Abdulhai (Aug 2019 - Present)
