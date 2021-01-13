@@ -1,7 +1,7 @@
 ---
 title: Granchild of Test
 parent: Child of Test
-grand_parent: Test
+grand_parent: Installation
 nav_order: 1
 ---
 
