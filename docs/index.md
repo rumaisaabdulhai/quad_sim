@@ -11,7 +11,7 @@ Developed by Rumaisa Abdulhai (Aug 2019 - Present)<br>
 Student at Massachsetts Academy of Math & Science at WPI
 {: .fs-6 .fw-300 }
 
-[Get started now](/installation.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/rumaisaabdulhai/quad_sim){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](/quad_sim/installation.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/rumaisaabdulhai/quad_sim){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
