@@ -25,3 +25,6 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 footer_content: "Copyright &copy; 2019-2021 Rumaisa Abdulhai. Distributed by an <a href=\"https://github.com/rumaisaabdulhai/quad_sim/blob/master/LICENSE\">MIT license.</a>"
+
+plugins:
+  - jekyll-seo-tag
