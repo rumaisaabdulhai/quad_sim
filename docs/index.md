@@ -2,6 +2,8 @@
 layout: default
 title: Home
 nav_order: 1
+description: "An autonomous indoor drone application using Gazebo and ROS"
+permalink: /
 ---
 
 # Autonomous Indoor Drone Application

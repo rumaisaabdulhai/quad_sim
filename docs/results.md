@@ -1,7 +1,8 @@
 ---
+layout: default
 title: Results
-has_children: false
 nav_order: 6
+has_children: false
 ---
 
 # Results

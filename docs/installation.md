@@ -1,7 +1,8 @@
 ---
+layout: default
 title: Installation
-has_children: false
 nav_order: 2
+has_children: false
 ---
 
 # Installation

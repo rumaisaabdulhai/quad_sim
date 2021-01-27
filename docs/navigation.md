@@ -1,7 +1,8 @@
 ---
+layout: default
 title: Navigation
-has_children: false
 nav_order: 4
+has_children: false
 ---
 
 # Navigation

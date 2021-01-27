@@ -1,7 +1,8 @@
 ---
+layout: default
 title: Video Streaming
-has_children: false
 nav_order: 5
+has_children: false
 ---
 
 # Video Streaming

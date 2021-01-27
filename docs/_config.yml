@@ -3,6 +3,9 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
 
+# allows links without .html extension
+permalink: pretty
+
 # Aux links for the upper right navigation
 aux_links:
   "Quad Sim on GitHub":
