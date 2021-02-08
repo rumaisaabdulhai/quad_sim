@@ -5,28 +5,17 @@ This python file is the code for allowing the drone to takeoff, hover, and land.
 
 Author: Rumaisa Abdulhai
 Date: February 2020
-
 '''
 
-#####################
-# IMPORT STATEMENTS #
-#####################
 import rospy
 from geometry_msgs.msg import Twist, PoseStamped
 from std_msgs.msg import Empty
 from move_base_msgs.msg import MoveBaseActionFeedback
 
-#############
-# CONSTANTS #
-#############
 DRONE_HEIGHT = 0.3
 
-                                                            ############### BEG OF CLASS ###############
 class TakeoffLand():
 
-  ###############
-  # CONSTRUCTOR #
-  ###############
   def __init__(self):
     '''
     Initialization function for TakeoffLand Object.
@@ -50,10 +39,6 @@ class TakeoffLand():
    
     self.rate = rospy.Rate(5) # rate at which to revisit callbacks
     rospy.spin() # keeps the node alive
-
-  #############
-  # CALLBACKS #
-  #############
 
   def takeoff_cb(self,msg):
     '''
@@ -173,8 +158,6 @@ class TakeoffLand():
     else:
       # The command velocities are active
       self.twist_active = True
-
-                                                            ############### END OF CLASS ###############
 
 if __name__ == '__main__':
     TakeoffLand() # Instantiates a TakeoffLand Object.
