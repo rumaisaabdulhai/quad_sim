@@ -10,6 +10,8 @@ In the summer of 2019, I attended the MIT Beaver Works Aerial Vehicle Racing Cou
 
 ## Introduction
 
+Please visit the project [website](https://rumaisaabdulhai.github.io/quad_sim/) with detailed instructions about the installation process, mapping, navigation, and video streaming.
+
 This repository allows a quadcopter with a Hokuyo 2D lidar to:
 
 1) Map an indoor gazebo environment using the gmapping SLAM algorithm and teleoperation
@@ -27,10 +29,6 @@ I am currently working on:
 
 You can view my [thesis](http://users.wpi.edu/~rabdulhai/docs/Thesis.pdf) here.
 
-Please visit the project [website](https://rumaisaabdulhai.github.io/quad_sim/) with details about the installation process, mapping, navigation, and video streaming.
-
----
-
 ## Demos
 
 Please visit my [YouTube Channel](https://www.youtube.com/channel/UCfvje9FSd2gTdbsGxQ2Hmqg) to view demonstrations of each component.
@@ -43,8 +41,6 @@ Please visit my [YouTube Channel](https://www.youtube.com/channel/UCfvje9FSd2gTd
 6. [Mapping - GMapping, RRT Exploration, Simple Env (Jul 2020)](https://youtu.be/SNdfzReCWJQ)
 7. [Mapping - Google Cartographer, Teleoperation, Complex Env (Nov 2020)](https://youtu.be/KcQ23XDVEuY)
 8. [Navigation - Move Base, Complex Env with Cartographer Map (Nov 2020)](https://youtu.be/saH9n_xpQXI)
-
----
 
 ## Questions
 
