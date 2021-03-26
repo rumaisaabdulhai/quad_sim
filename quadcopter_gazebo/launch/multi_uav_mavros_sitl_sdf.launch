@@ -24,10 +24,10 @@
     </include>
 
     <!-- UAV1 -->
-    <group ns="uav1">
+    <group ns="uav0">
         <!-- MAVROS and vehicle configs -->
-        <arg name="ID" value="1"/>
-        <arg name="fcu_url" default="udp://:14541@localhost:14581"/>
+        <arg name="ID" value="0"/>
+        <arg name="fcu_url" default="udp://:14540@localhost:14580"/>
         <!-- PX4 SITL and vehicle spawn -->
         <include file="$(find quadcopter_gazebo)/launch/single_vehicle_spawn_sdf.launch">
             <arg name="x" value="0"/>
@@ -37,8 +37,8 @@
             <arg name="P" value="0"/>
             <arg name="Y" value="0"/>
             <arg name="vehicle" value="$(arg vehicle)"/>
-            <arg name="mavlink_udp_port" value="14561"/>
-            <arg name="mavlink_tcp_port" value="4561"/>
+            <arg name="mavlink_udp_port" value="14560"/>
+            <arg name="mavlink_tcp_port" value="4560"/>
             <arg name="ID" value="$(arg ID)"/>
         </include>
         <!-- MAVROS -->

@@ -17,14 +17,14 @@ class Teleop():
 
 		rospy.init_node('quadsim_teleop') # creates the node
 
-		self.state_sub = rospy.Subscriber("uav1/mavros/state", State, self.state_cb)
-		self.local_pose_pub = rospy.Publisher("uav1/mavros/setpoint_position/local", PoseStamped, queue_size=10)
+		self.state_sub = rospy.Subscriber("uav0/mavros/state", State, self.state_cb)
+		self.local_pose_pub = rospy.Publisher("uav0/mavros/setpoint_position/local", PoseStamped, queue_size=10)
 
 		self.landing = False
 
 		# Clients
-		self.arm_client = rospy.ServiceProxy("uav1/mavros/cmd/arming", CommandBool)
-		self.land_client = rospy.ServiceProxy("uav1/mavros/cmd/land", CommandTOL)
+		self.arm_client = rospy.ServiceProxy("uav0/mavros/cmd/arming", CommandBool)
+		self.land_client = rospy.ServiceProxy("uav0/mavros/cmd/land", CommandTOL)
 		self.land_sub = rospy.Subscriber('/quadcopter_land', Empty, self.land_cb) # Listens for a command to land drone
 
 		
@@ -37,7 +37,7 @@ class Teleop():
 		self.sub = rospy.Subscriber('/cmd_vel', Twist, self.twist_cb)
 
 		# publishes velocity commands to hover and teleop
-		self.pub = rospy.Publisher('uav1/mavros/setpoint_raw/local', PositionTarget, queue_size=3)
+		self.pub = rospy.Publisher('uav0/mavros/setpoint_raw/local', PositionTarget, queue_size=3)
 
 		# define msg
 		self.setvel_msg = PositionTarget()
@@ -102,7 +102,7 @@ class Teleop():
 		# change to offboard mode and arm
 		last_request = rospy.get_time()
 		# enable offboard mode 
-		set_mode = rospy.ServiceProxy("uav1/mavros/set_mode", SetMode)
+		set_mode = rospy.ServiceProxy("uav0/mavros/set_mode", SetMode)
 		req = SetModeRequest()
 		req.custom_mode = "OFFBOARD"
 		while not rospy.is_shutdown() and (self.current_state.mode != req.custom_mode):

@@ -9,6 +9,7 @@
         -configuration_directory $(find quadcopter_mapping)/config
         -configuration_basename quadcopter_cartographer.lua"
     output="screen">
+    <remap from="scan" to="/laser/scan" />
   </node>
 
   <node name="cartographer_occupancy_grid_node" pkg="cartographer_ros"
