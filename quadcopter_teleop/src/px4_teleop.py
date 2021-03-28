@@ -7,9 +7,12 @@ from mavros_msgs.srv import CommandBool, CommandTOL, SetMode, SetModeRequest
 from std_msgs.msg import Empty
 import sys, select, termios, tty
 
+global uav
+
 # get param from launch file and set default 
 # value if variable is not set
 flight_alt = rospy.get_param('~flight_alt', 0.75)
+uav = rospy.get_param("/uav")
 
 class Teleop():
 
@@ -17,14 +20,14 @@ class Teleop():
 
 		rospy.init_node('quadsim_teleop') # creates the node
 
-		self.state_sub = rospy.Subscriber("uav0/mavros/state", State, self.state_cb)
-		self.local_pose_pub = rospy.Publisher("uav0/mavros/setpoint_position/local", PoseStamped, queue_size=10)
+		self.state_sub = rospy.Subscriber("%s/mavros/state" % uav, State, self.state_cb)
+		self.local_pose_pub = rospy.Publisher("%s/mavros/setpoint_position/local" % uav, PoseStamped, queue_size=10)
 
 		self.landing = False
 
 		# Clients
-		self.arm_client = rospy.ServiceProxy("uav0/mavros/cmd/arming", CommandBool)
-		self.land_client = rospy.ServiceProxy("uav0/mavros/cmd/land", CommandTOL)
+		self.arm_client = rospy.ServiceProxy("%s/mavros/cmd/arming" % uav, CommandBool)
+		self.land_client = rospy.ServiceProxy("%s/mavros/cmd/land" % uav, CommandTOL)
 		self.land_sub = rospy.Subscriber('/quadcopter_land', Empty, self.land_cb) # Listens for a command to land drone
 
 		
@@ -37,7 +40,7 @@ class Teleop():
 		self.sub = rospy.Subscriber('/cmd_vel', Twist, self.twist_cb)
 
 		# publishes velocity commands to hover and teleop
-		self.pub = rospy.Publisher('uav0/mavros/setpoint_raw/local', PositionTarget, queue_size=3)
+		self.pub = rospy.Publisher('%s/mavros/setpoint_raw/local' % uav, PositionTarget, queue_size=3)
 
 		# define msg
 		self.setvel_msg = PositionTarget()
@@ -102,7 +105,7 @@ class Teleop():
 		# change to offboard mode and arm
 		last_request = rospy.get_time()
 		# enable offboard mode 
-		set_mode = rospy.ServiceProxy("uav0/mavros/set_mode", SetMode)
+		set_mode = rospy.ServiceProxy("%s/mavros/set_mode" % uav, SetMode)
 		req = SetModeRequest()
 		req.custom_mode = "OFFBOARD"
 		while not rospy.is_shutdown() and (self.current_state.mode != req.custom_mode):

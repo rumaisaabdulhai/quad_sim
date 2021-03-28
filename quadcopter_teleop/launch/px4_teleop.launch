@@ -1,6 +1,8 @@
 <?xml version="1.0"?>
 <launch>
     <arg name="altitude" default="0.75"/>
+    <param name="uav" type="string" value="uav0" />
+    
     <node pkg="teleop_twist_keyboard" type="teleop_twist_keyboard.py" name="teleop" output="screen" />
         
     <node pkg="quadcopter_teleop" type="px4_teleop.py" name="px4_teleop" output="screen">
