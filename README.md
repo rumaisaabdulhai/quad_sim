@@ -2,8 +2,6 @@
 
 Developed by Rumaisa Abdulhai (Aug 2019 - Present)
 
-Student at Massachsetts Academy of Math & Science at WPI
-
 ## Motivation
 
 In the summer of 2019, I attended the MIT Beaver Works Aerial Vehicle Racing Course where I learned to develop code for an Intel RTF research drone to navigate an obstacle course autonomosly. I gained a practical understanding of the Intel compute board, the Robot Operating System (ROS), the PX4 flight controller, and the sensors, including cameras which allowed the drone to stably hover with stability at specified heights, identify AR markers on obstacles (for basic obstacle avoidance), and navigate a curved path successfully. Beaver Works encouraged me to start building my own indoor autonomous drone application. I would like to thank my instructors for motivating me to embark on this project.
@@ -46,4 +44,4 @@ Please visit my [YouTube Channel](https://www.youtube.com/channel/UCfvje9FSd2gTd
 
 If you have any questions or find any bugs with the code, feel free to create an issue in this repository with a screenshot of the error you have. Please be as specific as you can with details, such as what OS or version of ROS you are using and what steps you have taken so far.
 
-You can also email me at [rabdulhai@wpi.edu](mailto:rabdulhai@wpi.edu).
+You can also email me at [rumaisa@mit.edu](mailto:rumaisa@mit.edu).

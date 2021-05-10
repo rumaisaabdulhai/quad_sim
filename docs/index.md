@@ -10,7 +10,6 @@ permalink: /
 {: .fs-9 }
 
 Developed by Rumaisa Abdulhai (Aug 2019 - Present)<br>
-Student at Massachsetts Academy of Math & Science at WPI
 {: .fs-6 .fw-300 }
 
 [Get started now](/quad_sim/installation.html){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/rumaisaabdulhai/quad_sim){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -80,4 +79,4 @@ These links are also helpful (ROS Melodic):
 
 If you have any questions or find any bugs with the code, feel free to create an issue in this repository with a screenshot of the error you have. Please be as specific as you can with details, such as what OS or version of ROS you are using and what steps you have taken so far.
 
-You can also email me at [rabdulhai@wpi.edu](mailto:rabdulhai@wpi.edu).
+You can also email me at [rumaisa@mit.edu](mailto:rumaisa@mit.edu).
