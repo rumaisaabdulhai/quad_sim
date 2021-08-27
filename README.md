@@ -25,7 +25,7 @@ I am currently working on:
 
 **Note**: There are two versions of this package. The first is compatible with ROS Kinetic and Ubuntu 16.04, and the second is compatible with ROS Melodic and Ubuntu 18.04. The Melodic version is also the master code. I am no longer maintaining the kinetic version, but I am currently working on the melodic version.
 
-You can view my [thesis](http://users.wpi.edu/~rabdulhai/docs/Thesis.pdf) here.
+You can view my [thesis](/docs/assets/documents/Thesis_2020_Updated_Abdulhai.pdf) here.
 
 ## Demos
 
