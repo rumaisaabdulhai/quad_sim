@@ -1,0 +1,555 @@
+%time,field.header.seq,field.header.stamp,field.header.frame_id
+404481000000,209,404434000000,
+404634000000,210,404634000000,
+404834000000,211,404834000000,
+405034000000,212,405034000000,
+405234000000,213,405234000000,
+405434000000,214,405434000000,
+405635000000,215,405635000000,
+405834000000,216,405834000000,
+406035000000,217,406034000000,
+406234000000,218,406234000000,
+406434000000,219,406434000000,
+406634000000,220,406634000000,
+406834000000,221,406834000000,
+407034000000,222,407034000000,
+407234000000,223,407234000000,
+407434000000,224,407434000000,
+407634000000,225,407634000000,
+407835000000,226,407835000000,
+408034000000,227,408034000000,
+408235000000,228,408235000000,
+408434000000,229,408434000000,
+408634000000,230,408634000000,
+408835000000,231,408834000000,
+409034000000,232,409034000000,
+409235000000,233,409235000000,
+409434000000,234,409434000000,
+409634000000,235,409634000000,
+409834000000,236,409834000000,
+410034000000,237,410034000000,
+410234000000,238,410234000000,
+410434000000,239,410434000000,
+410634000000,240,410634000000,
+410834000000,241,410834000000,
+411034000000,242,411034000000,
+411208000000,243,411208000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+411234000000,244,411234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+411435000000,245,411435000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+411634000000,246,411634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+411834000000,247,411834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+412034000000,248,412034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+412234000000,249,412234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+412434000000,250,412434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+412634000000,251,412634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+412834000000,252,412834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+413034000000,253,413034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+413238000000,254,413234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+413434000000,255,413434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+413634000000,256,413634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+413834000000,257,413834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+414034000000,258,414034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+414235000000,259,414235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+414436000000,260,414436000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+414634000000,261,414634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+414835000000,262,414835000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+415034000000,263,415034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+415235000000,264,415235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+415434000000,265,415434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+415635000000,266,415634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+415834000000,267,415834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+416034000000,268,416034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+416234000000,269,416234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+416435000000,270,416435000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+416634000000,271,416634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+416835000000,272,416834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+417034000000,273,417034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+417234000000,274,417234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+417434000000,275,417434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+417634000000,276,417634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+417834000000,277,417834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+418034000000,278,418034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+418234000000,279,418234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+418434000000,280,418434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+418635000000,281,418635000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+418834000000,282,418834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+419034000000,283,419034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+419235000000,284,419235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+419435000000,285,419434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+419635000000,286,419634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+419834000000,287,419834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+420034000000,288,420034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+420235000000,289,420235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+420434000000,290,420434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+420634000000,291,420634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+420834000000,292,420834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+421034000000,293,421034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+421234000000,294,421234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+421434000000,295,421434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+421634000000,296,421634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+421834000000,297,421834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+422034000000,298,422034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+422234000000,299,422234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+422435000000,300,422435000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+422634000000,301,422634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+422834000000,302,422834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+423035000000,303,423034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+423235000000,304,423235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+423434000000,305,423434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+423635000000,306,423635000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+423834000000,307,423834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+424035000000,308,424035000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+424234000000,309,424234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+424434000000,310,424434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+424634000000,311,424634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+424834000000,312,424834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+425034000000,313,425034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+425234000000,314,425234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+425434000000,315,425434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+425634000000,316,425634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+425834000000,317,425834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+426034000000,318,426034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+426234000000,319,426234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+426434000000,320,426434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+426634000000,321,426634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+426834000000,322,426834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+427034000000,323,427034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+427235000000,324,427234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+427434000000,325,427434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+427634000000,326,427634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+427834000000,327,427834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+428034000000,328,428034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+428234000000,329,428234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+428434000000,330,428434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+428634000000,331,428634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+428835000000,332,428835000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+429034000000,333,429034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+429234000000,334,429234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+429434000000,335,429434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+429634000000,336,429634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+429834000000,337,429834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+430034000000,338,430034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+430234000000,339,430234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+430434000000,340,430434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+430634000000,341,430634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+430834000000,342,430834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+431036000000,343,431036000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+431234000000,344,431234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+431434000000,345,431434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+431635000000,346,431634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+431834000000,347,431834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+432034000000,348,432034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+432234000000,349,432234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+432434000000,350,432434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+432635000000,351,432634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+432836000000,352,432836000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+433035000000,353,433034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+433235000000,354,433235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+433434000000,355,433434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+433634000000,356,433634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+433834000000,357,433834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+434034000000,358,434034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+434234000000,359,434234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+434434000000,360,434434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+434634000000,361,434634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+434837000000,362,434837000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+435034000000,363,435034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+435235000000,364,435235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+435435000000,365,435434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+435634000000,366,435634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+435834000000,367,435834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+436034000000,368,436034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+436236000000,369,436234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+436434000000,370,436434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+436634000000,371,436634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+436834000000,372,436834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+437034000000,373,437034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+437234000000,374,437234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+437434000000,375,437434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+437634000000,376,437634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+437834000000,377,437834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+438034000000,378,438034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+438234000000,379,438234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+438434000000,380,438434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+438634000000,381,438634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+438834000000,382,438834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+439034000000,383,439034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+439234000000,384,439234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+439434000000,385,439434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+439634000000,386,439634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+439834000000,387,439834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+440034000000,388,440034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+440234000000,389,440234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+440434000000,390,440434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+440634000000,391,440634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+440834000000,392,440834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+441034000000,393,441034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+441234000000,394,441234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+441434000000,395,441434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+441634000000,396,441634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+441834000000,397,441834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+442034000000,398,442034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+442234000000,399,442234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+442434000000,400,442434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+442634000000,401,442634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+442834000000,402,442834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+443034000000,403,443034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+443235000000,404,443235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+443434000000,405,443434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+443634000000,406,443634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+443835000000,407,443834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+444034000000,408,444034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+444234000000,409,444234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+444435000000,410,444434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+444634000000,411,444634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+444835000000,412,444834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+445034000000,413,445034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+445234000000,414,445234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+445434000000,415,445434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+445634000000,416,445634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+445834000000,417,445834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+446034000000,418,446034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+446234000000,419,446234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+446434000000,420,446434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+446635000000,421,446634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+446834000000,422,446834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+447034000000,423,447034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+447235000000,424,447234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+447435000000,425,447435000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+447634000000,426,447634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+447834000000,427,447834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+448034000000,428,448034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+448234000000,429,448234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+448435000000,430,448435000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+448634000000,431,448634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+448834000000,432,448834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+449034000000,433,449034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+449234000000,434,449234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+449435000000,435,449435000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+449634000000,436,449634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+449834000000,437,449834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+450034000000,438,450034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+450234000000,439,450234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+450434000000,440,450434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+450634000000,441,450634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+450834000000,442,450834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+451034000000,443,451034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+451233000000,444,451234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+451437000000,445,451434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+451634000000,446,451634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+451834000000,447,451834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+452035000000,448,452035000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+452235000000,449,452234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+452434000000,450,452434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+452634000000,451,452634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+452834000000,452,452834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+453034000000,453,453034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+453234000000,454,453234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+453434000000,455,453434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+453634000000,456,453634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+453835000000,457,453834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+454034000000,458,454034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+454235000000,459,454234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+454434000000,460,454434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+454635000000,461,454634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+454834000000,462,454834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+455035000000,463,455034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+455234000000,464,455234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+455434000000,465,455434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+455635000000,466,455635000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+455834000000,467,455834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+456034000000,468,456034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+456234000000,469,456234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+456434000000,470,456434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+456634000000,471,456634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+456834000000,472,456834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+457034000000,473,457034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+457235000000,474,457234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+457434000000,475,457434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+457634000000,476,457634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+457834000000,477,457834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+458034000000,478,458034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+458234000000,479,458234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+458434000000,480,458434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+458634000000,481,458634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+458834000000,482,458834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+459034000000,483,459034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+459235000000,484,459235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+459434000000,485,459434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+459634000000,486,459634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+459834000000,487,459834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+460034000000,488,460034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+460234000000,489,460234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+460434000000,490,460434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+460634000000,491,460634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+460834000000,492,460834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+461034000000,493,461034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+461236000000,494,461235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+461434000000,495,461434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+461634000000,496,461634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+461835000000,497,461834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+462034000000,498,462034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+462234000000,499,462234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+462434000000,500,462434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+462634000000,501,462634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+462834000000,502,462834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+463035000000,503,463035000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+463235000000,504,463235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+463435000000,505,463434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+463634000000,506,463634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+463834000000,507,463834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+464034000000,508,464034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+464234000000,509,464234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+464435000000,510,464434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+464634000000,511,464634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+464834000000,512,464834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+465034000000,513,465034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+465234000000,514,465234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+465434000000,515,465434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+465634000000,516,465634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+465834000000,517,465834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+466035000000,518,466035000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+466234000000,519,466234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+466434000000,520,466434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+466635000000,521,466634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+466834000000,522,466834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+467034000000,523,467034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+467234000000,524,467234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+467434000000,525,467434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+467634000000,526,467634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+467835000000,527,467835000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+468034000000,528,468034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+468236000000,529,468235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+468435000000,530,468434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+468634000000,531,468634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+468835000000,532,468834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+469034000000,533,469034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+469234000000,534,469234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+469434000000,535,469434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+469634000000,536,469634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+469835000000,537,469835000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+470034000000,538,470034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+470234000000,539,470234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+470434000000,540,470434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+470634000000,541,470634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+470834000000,542,470834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+471034000000,543,471034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+471234000000,544,471234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+471435000000,545,471435000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+471634000000,546,471634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+471835000000,547,471835000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+472034000000,548,472034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+472234000000,549,472234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+472434000000,550,472434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+472634000000,551,472634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+472834000000,552,472834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+473034000000,553,473034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+473234000000,554,473234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+473435000000,555,473434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+473634000000,556,473634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+473836000000,557,473835000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+474034000000,558,474034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+474234000000,559,474234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+474434000000,560,474434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+474634000000,561,474634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+474834000000,562,474834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+475034000000,563,475034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+475234000000,564,475234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+475433000000,565,475434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+475634000000,566,475634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+475835000000,567,475834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+476034000000,568,476034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+476235000000,569,476234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+476435000000,570,476434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+476634000000,571,476634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+476834000000,572,476834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+477034000000,573,477034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+477234000000,574,477234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+477435000000,575,477435000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+477634000000,576,477634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+477834000000,577,477834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+478034000000,578,478034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+478234000000,579,478234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+478434000000,580,478434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+478634000000,581,478634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+478834000000,582,478834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+479034000000,583,479034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+479234000000,584,479234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+479435000000,585,479434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+479634000000,586,479634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+479835000000,587,479835000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+480034000000,588,480034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+480234000000,589,480234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+480434000000,590,480434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+480635000000,591,480634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+480834000000,592,480834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+481034000000,593,481034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+481234000000,594,481234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+481434000000,595,481434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+481634000000,596,481634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+481834000000,597,481834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+482034000000,598,482034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+482235000000,599,482235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+482435000000,600,482434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+482634000000,601,482634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+482834000000,602,482834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+483034000000,603,483034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+483234000000,604,483234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+483434000000,605,483434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+483634000000,606,483634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+483834000000,607,483834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+484034000000,608,484034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+484235000000,609,484235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+484435000000,610,484435000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+484634000000,611,484634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+484834000000,612,484834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+485034000000,613,485034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+485234000000,614,485234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+485434000000,615,485434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+485635000000,616,485634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+485834000000,617,485834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+486034000000,618,486034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+486234000000,619,486234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+486435000000,620,486435000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+486634000000,621,486634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+486834000000,622,486834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+487034000000,623,487034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+487234000000,624,487234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+487434000000,625,487434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+487634000000,626,487634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+487834000000,627,487834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+488034000000,628,488034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+488234000000,629,488234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+488434000000,630,488434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+488635000000,631,488634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+488835000000,632,488835000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+489034000000,633,489034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+489235000000,634,489234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+489434000000,635,489434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+489634000000,636,489634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+489834000000,637,489834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+490034000000,638,490034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+490235000000,639,490235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+490435000000,640,490434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+490634000000,641,490634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+490835000000,642,490835000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+491034000000,643,491034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+491235000000,644,491235000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+491434000000,645,491434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+491634000000,646,491634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+491834000000,647,491834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+492034000000,648,492034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+492235000000,649,492234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+492434000000,650,492434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+492634000000,651,492634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+492836000000,652,492834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+493034000000,653,493034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+493234000000,654,493234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+493434000000,655,493434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+493634000000,656,493634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+493834000000,657,493834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+494034000000,658,494034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+494234000000,659,494234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+494434000000,660,494434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+494634000000,661,494634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+494834000000,662,494834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+495034000000,663,495034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+495236000000,664,495236000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+495434000000,665,495434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+495634000000,666,495634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+495834000000,667,495834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+496034000000,668,496034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+496234000000,669,496234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+496434000000,670,496434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+496634000000,671,496634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+496834000000,672,496834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+497034000000,673,497034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+497237000000,674,497236000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+497434000000,675,497434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+497634000000,676,497634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+497834000000,677,497834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+498035000000,678,498034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+498234000000,679,498234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+498434000000,680,498434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+498634000000,681,498634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+498834000000,682,498834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+499034000000,683,499034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+499234000000,684,499234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+499434000000,685,499434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+499634000000,686,499634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+499834000000,687,499834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+500034000000,688,500034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+500234000000,689,500234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+500434000000,690,500434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+500634000000,691,500634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+500834000000,692,500834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+501034000000,693,501034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+501234000000,694,501234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+501434000000,695,501434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+501635000000,696,501635000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+501837000000,697,501837000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+502034000000,698,502034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+502234000000,699,502234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+502434000000,700,502434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+502634000000,701,502634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+502834000000,702,502834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+503035000000,703,503034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+503234000000,704,503234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+503434000000,705,503434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+503634000000,706,503634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+503834000000,707,503834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+504034000000,708,504034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+504234000000,709,504234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+504434000000,710,504434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+504634000000,711,504634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+504835000000,712,504834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+505034000000,713,505034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+505234000000,714,505234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+505434000000,715,505434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+505634000000,716,505634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+505834000000,717,505834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+506034000000,718,506034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+506234000000,719,506234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+506434000000,720,506434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+506634000000,721,506634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+506834000000,722,506834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+507034000000,723,507034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+507234000000,724,507234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+507434000000,725,507434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+507634000000,726,507634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+507834000000,727,507834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+508034000000,728,508034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+508233000000,729,508234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+508434000000,730,508434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+508634000000,731,508634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+508834000000,732,508834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+509034000000,733,509034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+509234000000,734,509234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+509434000000,735,509434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+509634000000,736,509634000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+509834000000,737,509834000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+510034000000,738,510034000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+510234000000,739,510234000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+510434000000,740,510434000000,,411208000000,/move_base-1-411.208000000,1,This goal has been accepted by the simple action server
+510608000000,741,510608000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+510634000000,742,510634000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+510834000000,743,510834000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+511034000000,744,511034000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+511234000000,745,511234000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+511434000000,746,511434000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+511634000000,747,511634000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+511835000000,748,511834000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+512034000000,749,512034000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+512235000000,750,512234000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+512434000000,751,512434000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+512634000000,752,512634000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+512834000000,753,512834000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+513034000000,754,513034000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+513234000000,755,513234000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+513434000000,756,513434000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+513635000000,757,513635000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+513834000000,758,513834000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+514034000000,759,514034000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+514234000000,760,514234000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+514434000000,761,514434000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
+514634000000,762,514634000000,,411208000000,/move_base-1-411.208000000,3,Goal reached.
