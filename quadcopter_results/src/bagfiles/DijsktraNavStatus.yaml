@@ -1,0 +1,8488 @@
+header: 
+  seq: 179
+  stamp: 
+    secs: 392
+    nsecs: 870000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 180
+  stamp: 
+    secs: 393
+    nsecs:  70000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 181
+  stamp: 
+    secs: 393
+    nsecs: 270000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 182
+  stamp: 
+    secs: 393
+    nsecs: 470000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 183
+  stamp: 
+    secs: 393
+    nsecs: 670000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 184
+  stamp: 
+    secs: 393
+    nsecs: 870000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 185
+  stamp: 
+    secs: 394
+    nsecs:  70000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 186
+  stamp: 
+    secs: 394
+    nsecs: 270000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 187
+  stamp: 
+    secs: 394
+    nsecs: 470000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 188
+  stamp: 
+    secs: 394
+    nsecs: 670000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 189
+  stamp: 
+    secs: 394
+    nsecs: 870000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 190
+  stamp: 
+    secs: 395
+    nsecs:  70000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 191
+  stamp: 
+    secs: 395
+    nsecs: 270000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 192
+  stamp: 
+    secs: 395
+    nsecs: 470000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 193
+  stamp: 
+    secs: 395
+    nsecs: 670000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 194
+  stamp: 
+    secs: 395
+    nsecs: 870000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 195
+  stamp: 
+    secs: 396
+    nsecs:  70000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 196
+  stamp: 
+    secs: 396
+    nsecs: 270000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 197
+  stamp: 
+    secs: 396
+    nsecs: 470000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 198
+  stamp: 
+    secs: 396
+    nsecs: 670000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 199
+  stamp: 
+    secs: 396
+    nsecs: 870000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 200
+  stamp: 
+    secs: 397
+    nsecs:  70000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 201
+  stamp: 
+    secs: 397
+    nsecs: 270000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 202
+  stamp: 
+    secs: 397
+    nsecs: 470000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 203
+  stamp: 
+    secs: 397
+    nsecs: 670000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 204
+  stamp: 
+    secs: 397
+    nsecs: 870000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 205
+  stamp: 
+    secs: 398
+    nsecs:  70000000
+  frame_id: ''
+status_list: []
+---
+header: 
+  seq: 206
+  stamp: 
+    secs: 398
+    nsecs: 241000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 207
+  stamp: 
+    secs: 398
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 208
+  stamp: 
+    secs: 398
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 209
+  stamp: 
+    secs: 398
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 210
+  stamp: 
+    secs: 398
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 211
+  stamp: 
+    secs: 399
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 212
+  stamp: 
+    secs: 399
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 213
+  stamp: 
+    secs: 399
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 214
+  stamp: 
+    secs: 399
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 215
+  stamp: 
+    secs: 399
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 216
+  stamp: 
+    secs: 400
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 217
+  stamp: 
+    secs: 400
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 218
+  stamp: 
+    secs: 400
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 219
+  stamp: 
+    secs: 400
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 220
+  stamp: 
+    secs: 400
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 221
+  stamp: 
+    secs: 401
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 222
+  stamp: 
+    secs: 401
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 223
+  stamp: 
+    secs: 401
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 224
+  stamp: 
+    secs: 401
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 225
+  stamp: 
+    secs: 401
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 226
+  stamp: 
+    secs: 402
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 227
+  stamp: 
+    secs: 402
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 228
+  stamp: 
+    secs: 402
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 229
+  stamp: 
+    secs: 402
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 230
+  stamp: 
+    secs: 402
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 231
+  stamp: 
+    secs: 403
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 232
+  stamp: 
+    secs: 403
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 233
+  stamp: 
+    secs: 403
+    nsecs: 471000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 234
+  stamp: 
+    secs: 403
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 235
+  stamp: 
+    secs: 403
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 236
+  stamp: 
+    secs: 404
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 237
+  stamp: 
+    secs: 404
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 238
+  stamp: 
+    secs: 404
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 239
+  stamp: 
+    secs: 404
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 240
+  stamp: 
+    secs: 404
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 241
+  stamp: 
+    secs: 405
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 242
+  stamp: 
+    secs: 405
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 243
+  stamp: 
+    secs: 405
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 244
+  stamp: 
+    secs: 405
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 245
+  stamp: 
+    secs: 405
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 246
+  stamp: 
+    secs: 406
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 247
+  stamp: 
+    secs: 406
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 248
+  stamp: 
+    secs: 406
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 249
+  stamp: 
+    secs: 406
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 250
+  stamp: 
+    secs: 406
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 251
+  stamp: 
+    secs: 407
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 252
+  stamp: 
+    secs: 407
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 253
+  stamp: 
+    secs: 407
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 254
+  stamp: 
+    secs: 407
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 255
+  stamp: 
+    secs: 407
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 256
+  stamp: 
+    secs: 408
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 257
+  stamp: 
+    secs: 408
+    nsecs: 271000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 258
+  stamp: 
+    secs: 408
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 259
+  stamp: 
+    secs: 408
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 260
+  stamp: 
+    secs: 408
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 261
+  stamp: 
+    secs: 409
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 262
+  stamp: 
+    secs: 409
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 263
+  stamp: 
+    secs: 409
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 264
+  stamp: 
+    secs: 409
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 265
+  stamp: 
+    secs: 409
+    nsecs: 876000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 266
+  stamp: 
+    secs: 410
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 267
+  stamp: 
+    secs: 410
+    nsecs: 271000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 268
+  stamp: 
+    secs: 410
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 269
+  stamp: 
+    secs: 410
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 270
+  stamp: 
+    secs: 410
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 271
+  stamp: 
+    secs: 411
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 272
+  stamp: 
+    secs: 411
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 273
+  stamp: 
+    secs: 411
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 274
+  stamp: 
+    secs: 411
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 275
+  stamp: 
+    secs: 411
+    nsecs: 871000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 276
+  stamp: 
+    secs: 412
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 277
+  stamp: 
+    secs: 412
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 278
+  stamp: 
+    secs: 412
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 279
+  stamp: 
+    secs: 412
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 280
+  stamp: 
+    secs: 412
+    nsecs: 871000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 281
+  stamp: 
+    secs: 413
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 282
+  stamp: 
+    secs: 413
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 283
+  stamp: 
+    secs: 413
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 284
+  stamp: 
+    secs: 413
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 285
+  stamp: 
+    secs: 413
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 286
+  stamp: 
+    secs: 414
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 287
+  stamp: 
+    secs: 414
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 288
+  stamp: 
+    secs: 414
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 289
+  stamp: 
+    secs: 414
+    nsecs: 671000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 290
+  stamp: 
+    secs: 414
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 291
+  stamp: 
+    secs: 415
+    nsecs:  71000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 292
+  stamp: 
+    secs: 415
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 293
+  stamp: 
+    secs: 415
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 294
+  stamp: 
+    secs: 415
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 295
+  stamp: 
+    secs: 415
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 296
+  stamp: 
+    secs: 416
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 297
+  stamp: 
+    secs: 416
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 298
+  stamp: 
+    secs: 416
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 299
+  stamp: 
+    secs: 416
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 300
+  stamp: 
+    secs: 416
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 301
+  stamp: 
+    secs: 417
+    nsecs:  73000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 302
+  stamp: 
+    secs: 417
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 303
+  stamp: 
+    secs: 417
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 304
+  stamp: 
+    secs: 417
+    nsecs: 671000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 305
+  stamp: 
+    secs: 417
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 306
+  stamp: 
+    secs: 418
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 307
+  stamp: 
+    secs: 418
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 308
+  stamp: 
+    secs: 418
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 309
+  stamp: 
+    secs: 418
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 310
+  stamp: 
+    secs: 418
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 311
+  stamp: 
+    secs: 419
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 312
+  stamp: 
+    secs: 419
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 313
+  stamp: 
+    secs: 419
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 314
+  stamp: 
+    secs: 419
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 315
+  stamp: 
+    secs: 419
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 316
+  stamp: 
+    secs: 420
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 317
+  stamp: 
+    secs: 420
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 318
+  stamp: 
+    secs: 420
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 319
+  stamp: 
+    secs: 420
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 320
+  stamp: 
+    secs: 420
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 321
+  stamp: 
+    secs: 421
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 322
+  stamp: 
+    secs: 421
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 323
+  stamp: 
+    secs: 421
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 324
+  stamp: 
+    secs: 421
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 325
+  stamp: 
+    secs: 421
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 326
+  stamp: 
+    secs: 422
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 327
+  stamp: 
+    secs: 422
+    nsecs: 271000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 328
+  stamp: 
+    secs: 422
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 329
+  stamp: 
+    secs: 422
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 330
+  stamp: 
+    secs: 422
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 331
+  stamp: 
+    secs: 423
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 332
+  stamp: 
+    secs: 423
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 333
+  stamp: 
+    secs: 423
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 334
+  stamp: 
+    secs: 423
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 335
+  stamp: 
+    secs: 423
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 336
+  stamp: 
+    secs: 424
+    nsecs:  71000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 337
+  stamp: 
+    secs: 424
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 338
+  stamp: 
+    secs: 424
+    nsecs: 472000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 339
+  stamp: 
+    secs: 424
+    nsecs: 671000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 340
+  stamp: 
+    secs: 424
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 341
+  stamp: 
+    secs: 425
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 342
+  stamp: 
+    secs: 425
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 343
+  stamp: 
+    secs: 425
+    nsecs: 471000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 344
+  stamp: 
+    secs: 425
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 345
+  stamp: 
+    secs: 425
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 346
+  stamp: 
+    secs: 426
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 347
+  stamp: 
+    secs: 426
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 348
+  stamp: 
+    secs: 426
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 349
+  stamp: 
+    secs: 426
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 350
+  stamp: 
+    secs: 426
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 351
+  stamp: 
+    secs: 427
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 352
+  stamp: 
+    secs: 427
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 353
+  stamp: 
+    secs: 427
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 354
+  stamp: 
+    secs: 427
+    nsecs: 671000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 355
+  stamp: 
+    secs: 427
+    nsecs: 871000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 356
+  stamp: 
+    secs: 428
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 357
+  stamp: 
+    secs: 428
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 358
+  stamp: 
+    secs: 428
+    nsecs: 472000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 359
+  stamp: 
+    secs: 428
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 360
+  stamp: 
+    secs: 428
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 361
+  stamp: 
+    secs: 429
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 362
+  stamp: 
+    secs: 429
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 363
+  stamp: 
+    secs: 429
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 364
+  stamp: 
+    secs: 429
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 365
+  stamp: 
+    secs: 429
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 366
+  stamp: 
+    secs: 430
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 367
+  stamp: 
+    secs: 430
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 368
+  stamp: 
+    secs: 430
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 369
+  stamp: 
+    secs: 430
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 370
+  stamp: 
+    secs: 430
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 371
+  stamp: 
+    secs: 431
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 372
+  stamp: 
+    secs: 431
+    nsecs: 271000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 373
+  stamp: 
+    secs: 431
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 374
+  stamp: 
+    secs: 431
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 375
+  stamp: 
+    secs: 431
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 376
+  stamp: 
+    secs: 432
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 377
+  stamp: 
+    secs: 432
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 378
+  stamp: 
+    secs: 432
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 379
+  stamp: 
+    secs: 432
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 380
+  stamp: 
+    secs: 432
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 381
+  stamp: 
+    secs: 433
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 382
+  stamp: 
+    secs: 433
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 383
+  stamp: 
+    secs: 433
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 384
+  stamp: 
+    secs: 433
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 385
+  stamp: 
+    secs: 433
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 386
+  stamp: 
+    secs: 434
+    nsecs:  71000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 387
+  stamp: 
+    secs: 434
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 388
+  stamp: 
+    secs: 434
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 389
+  stamp: 
+    secs: 434
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 390
+  stamp: 
+    secs: 434
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 391
+  stamp: 
+    secs: 435
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 392
+  stamp: 
+    secs: 435
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 393
+  stamp: 
+    secs: 435
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 394
+  stamp: 
+    secs: 435
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 395
+  stamp: 
+    secs: 435
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 396
+  stamp: 
+    secs: 436
+    nsecs:  71000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 397
+  stamp: 
+    secs: 436
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 398
+  stamp: 
+    secs: 436
+    nsecs: 471000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 399
+  stamp: 
+    secs: 436
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 400
+  stamp: 
+    secs: 436
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 401
+  stamp: 
+    secs: 437
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 402
+  stamp: 
+    secs: 437
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 403
+  stamp: 
+    secs: 437
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 404
+  stamp: 
+    secs: 437
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 405
+  stamp: 
+    secs: 437
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 406
+  stamp: 
+    secs: 438
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 407
+  stamp: 
+    secs: 438
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 408
+  stamp: 
+    secs: 438
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 409
+  stamp: 
+    secs: 438
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 410
+  stamp: 
+    secs: 438
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 411
+  stamp: 
+    secs: 439
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 412
+  stamp: 
+    secs: 439
+    nsecs: 271000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 413
+  stamp: 
+    secs: 439
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 414
+  stamp: 
+    secs: 439
+    nsecs: 671000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 415
+  stamp: 
+    secs: 439
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 416
+  stamp: 
+    secs: 440
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 417
+  stamp: 
+    secs: 440
+    nsecs: 272000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 418
+  stamp: 
+    secs: 440
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 419
+  stamp: 
+    secs: 440
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 420
+  stamp: 
+    secs: 440
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 421
+  stamp: 
+    secs: 441
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 422
+  stamp: 
+    secs: 441
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 423
+  stamp: 
+    secs: 441
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 424
+  stamp: 
+    secs: 441
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 425
+  stamp: 
+    secs: 441
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 426
+  stamp: 
+    secs: 442
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 427
+  stamp: 
+    secs: 442
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 428
+  stamp: 
+    secs: 442
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 429
+  stamp: 
+    secs: 442
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 430
+  stamp: 
+    secs: 442
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 431
+  stamp: 
+    secs: 443
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 432
+  stamp: 
+    secs: 443
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 433
+  stamp: 
+    secs: 443
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 434
+  stamp: 
+    secs: 443
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 435
+  stamp: 
+    secs: 443
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 436
+  stamp: 
+    secs: 444
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 437
+  stamp: 
+    secs: 444
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 438
+  stamp: 
+    secs: 444
+    nsecs: 471000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 439
+  stamp: 
+    secs: 444
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 440
+  stamp: 
+    secs: 444
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 441
+  stamp: 
+    secs: 445
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 442
+  stamp: 
+    secs: 445
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 443
+  stamp: 
+    secs: 445
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 444
+  stamp: 
+    secs: 445
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 445
+  stamp: 
+    secs: 445
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 446
+  stamp: 
+    secs: 446
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 447
+  stamp: 
+    secs: 446
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 448
+  stamp: 
+    secs: 446
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 449
+  stamp: 
+    secs: 446
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 450
+  stamp: 
+    secs: 446
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 451
+  stamp: 
+    secs: 447
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 452
+  stamp: 
+    secs: 447
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 453
+  stamp: 
+    secs: 447
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 454
+  stamp: 
+    secs: 447
+    nsecs: 671000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 455
+  stamp: 
+    secs: 447
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 456
+  stamp: 
+    secs: 448
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 457
+  stamp: 
+    secs: 448
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 458
+  stamp: 
+    secs: 448
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 459
+  stamp: 
+    secs: 448
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 460
+  stamp: 
+    secs: 448
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 461
+  stamp: 
+    secs: 449
+    nsecs:  71000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 462
+  stamp: 
+    secs: 449
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 463
+  stamp: 
+    secs: 449
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 464
+  stamp: 
+    secs: 449
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 465
+  stamp: 
+    secs: 449
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 466
+  stamp: 
+    secs: 450
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 467
+  stamp: 
+    secs: 450
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 468
+  stamp: 
+    secs: 450
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 469
+  stamp: 
+    secs: 450
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 470
+  stamp: 
+    secs: 450
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 471
+  stamp: 
+    secs: 451
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 472
+  stamp: 
+    secs: 451
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 473
+  stamp: 
+    secs: 451
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 474
+  stamp: 
+    secs: 451
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 475
+  stamp: 
+    secs: 451
+    nsecs: 871000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 476
+  stamp: 
+    secs: 452
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 477
+  stamp: 
+    secs: 452
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 478
+  stamp: 
+    secs: 452
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 479
+  stamp: 
+    secs: 452
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 480
+  stamp: 
+    secs: 452
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 481
+  stamp: 
+    secs: 453
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 482
+  stamp: 
+    secs: 453
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 483
+  stamp: 
+    secs: 453
+    nsecs: 471000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 484
+  stamp: 
+    secs: 453
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 485
+  stamp: 
+    secs: 453
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 486
+  stamp: 
+    secs: 454
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 487
+  stamp: 
+    secs: 454
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 488
+  stamp: 
+    secs: 454
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 489
+  stamp: 
+    secs: 454
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 490
+  stamp: 
+    secs: 454
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 491
+  stamp: 
+    secs: 455
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 492
+  stamp: 
+    secs: 455
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 493
+  stamp: 
+    secs: 455
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 494
+  stamp: 
+    secs: 455
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 495
+  stamp: 
+    secs: 455
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 496
+  stamp: 
+    secs: 456
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 497
+  stamp: 
+    secs: 456
+    nsecs: 271000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 498
+  stamp: 
+    secs: 456
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 499
+  stamp: 
+    secs: 456
+    nsecs: 671000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 500
+  stamp: 
+    secs: 456
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 501
+  stamp: 
+    secs: 457
+    nsecs:  71000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 502
+  stamp: 
+    secs: 457
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 503
+  stamp: 
+    secs: 457
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 504
+  stamp: 
+    secs: 457
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 505
+  stamp: 
+    secs: 457
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 506
+  stamp: 
+    secs: 458
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 507
+  stamp: 
+    secs: 458
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 508
+  stamp: 
+    secs: 458
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 509
+  stamp: 
+    secs: 458
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 510
+  stamp: 
+    secs: 458
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 511
+  stamp: 
+    secs: 459
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 512
+  stamp: 
+    secs: 459
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 513
+  stamp: 
+    secs: 459
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 514
+  stamp: 
+    secs: 459
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 515
+  stamp: 
+    secs: 459
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 516
+  stamp: 
+    secs: 460
+    nsecs:  71000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 517
+  stamp: 
+    secs: 460
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 518
+  stamp: 
+    secs: 460
+    nsecs: 471000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 519
+  stamp: 
+    secs: 460
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 520
+  stamp: 
+    secs: 460
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 521
+  stamp: 
+    secs: 461
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 522
+  stamp: 
+    secs: 461
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 523
+  stamp: 
+    secs: 461
+    nsecs: 471000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 524
+  stamp: 
+    secs: 461
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 525
+  stamp: 
+    secs: 461
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 526
+  stamp: 
+    secs: 462
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 527
+  stamp: 
+    secs: 462
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 528
+  stamp: 
+    secs: 462
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 529
+  stamp: 
+    secs: 462
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 530
+  stamp: 
+    secs: 462
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 531
+  stamp: 
+    secs: 463
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 532
+  stamp: 
+    secs: 463
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 533
+  stamp: 
+    secs: 463
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 534
+  stamp: 
+    secs: 463
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 535
+  stamp: 
+    secs: 463
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 536
+  stamp: 
+    secs: 464
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 537
+  stamp: 
+    secs: 464
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 538
+  stamp: 
+    secs: 464
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 539
+  stamp: 
+    secs: 464
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 540
+  stamp: 
+    secs: 464
+    nsecs: 871000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 541
+  stamp: 
+    secs: 465
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 542
+  stamp: 
+    secs: 465
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 543
+  stamp: 
+    secs: 465
+    nsecs: 471000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 544
+  stamp: 
+    secs: 465
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 545
+  stamp: 
+    secs: 465
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 546
+  stamp: 
+    secs: 466
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 547
+  stamp: 
+    secs: 466
+    nsecs: 274000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 548
+  stamp: 
+    secs: 466
+    nsecs: 471000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 549
+  stamp: 
+    secs: 466
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 550
+  stamp: 
+    secs: 466
+    nsecs: 871000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 551
+  stamp: 
+    secs: 467
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 552
+  stamp: 
+    secs: 467
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 553
+  stamp: 
+    secs: 467
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 554
+  stamp: 
+    secs: 467
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 555
+  stamp: 
+    secs: 467
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 556
+  stamp: 
+    secs: 468
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 557
+  stamp: 
+    secs: 468
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 558
+  stamp: 
+    secs: 468
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 559
+  stamp: 
+    secs: 468
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 560
+  stamp: 
+    secs: 468
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 561
+  stamp: 
+    secs: 469
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 562
+  stamp: 
+    secs: 469
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 563
+  stamp: 
+    secs: 469
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 564
+  stamp: 
+    secs: 469
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 565
+  stamp: 
+    secs: 469
+    nsecs: 872000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 566
+  stamp: 
+    secs: 470
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 567
+  stamp: 
+    secs: 470
+    nsecs: 271000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 568
+  stamp: 
+    secs: 470
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 569
+  stamp: 
+    secs: 470
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 570
+  stamp: 
+    secs: 470
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 571
+  stamp: 
+    secs: 471
+    nsecs:  71000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 572
+  stamp: 
+    secs: 471
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 573
+  stamp: 
+    secs: 471
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 574
+  stamp: 
+    secs: 471
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 575
+  stamp: 
+    secs: 471
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 576
+  stamp: 
+    secs: 472
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 577
+  stamp: 
+    secs: 472
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 578
+  stamp: 
+    secs: 472
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 579
+  stamp: 
+    secs: 472
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 580
+  stamp: 
+    secs: 472
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 581
+  stamp: 
+    secs: 473
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 582
+  stamp: 
+    secs: 473
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 583
+  stamp: 
+    secs: 473
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 584
+  stamp: 
+    secs: 473
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 585
+  stamp: 
+    secs: 473
+    nsecs: 871000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 586
+  stamp: 
+    secs: 474
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 587
+  stamp: 
+    secs: 474
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 588
+  stamp: 
+    secs: 474
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 589
+  stamp: 
+    secs: 474
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 590
+  stamp: 
+    secs: 474
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 591
+  stamp: 
+    secs: 475
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 592
+  stamp: 
+    secs: 475
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 593
+  stamp: 
+    secs: 475
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 594
+  stamp: 
+    secs: 475
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 595
+  stamp: 
+    secs: 475
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 596
+  stamp: 
+    secs: 476
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 597
+  stamp: 
+    secs: 476
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 598
+  stamp: 
+    secs: 476
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 599
+  stamp: 
+    secs: 476
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 600
+  stamp: 
+    secs: 476
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 601
+  stamp: 
+    secs: 477
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 602
+  stamp: 
+    secs: 477
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 603
+  stamp: 
+    secs: 477
+    nsecs: 471000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 604
+  stamp: 
+    secs: 477
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 605
+  stamp: 
+    secs: 477
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 606
+  stamp: 
+    secs: 478
+    nsecs:  71000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 607
+  stamp: 
+    secs: 478
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 608
+  stamp: 
+    secs: 478
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 609
+  stamp: 
+    secs: 478
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 610
+  stamp: 
+    secs: 478
+    nsecs: 871000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 611
+  stamp: 
+    secs: 479
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 612
+  stamp: 
+    secs: 479
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 613
+  stamp: 
+    secs: 479
+    nsecs: 471000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 614
+  stamp: 
+    secs: 479
+    nsecs: 671000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 615
+  stamp: 
+    secs: 479
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 616
+  stamp: 
+    secs: 480
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 617
+  stamp: 
+    secs: 480
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 618
+  stamp: 
+    secs: 480
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 619
+  stamp: 
+    secs: 480
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 620
+  stamp: 
+    secs: 480
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 621
+  stamp: 
+    secs: 481
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 622
+  stamp: 
+    secs: 481
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 623
+  stamp: 
+    secs: 481
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 624
+  stamp: 
+    secs: 481
+    nsecs: 671000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 625
+  stamp: 
+    secs: 481
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 626
+  stamp: 
+    secs: 482
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 627
+  stamp: 
+    secs: 482
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 628
+  stamp: 
+    secs: 482
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 629
+  stamp: 
+    secs: 482
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 630
+  stamp: 
+    secs: 482
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 631
+  stamp: 
+    secs: 483
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 632
+  stamp: 
+    secs: 483
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 633
+  stamp: 
+    secs: 483
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 634
+  stamp: 
+    secs: 483
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 635
+  stamp: 
+    secs: 483
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 636
+  stamp: 
+    secs: 484
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 637
+  stamp: 
+    secs: 484
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 638
+  stamp: 
+    secs: 484
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 639
+  stamp: 
+    secs: 484
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 640
+  stamp: 
+    secs: 484
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 641
+  stamp: 
+    secs: 485
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 642
+  stamp: 
+    secs: 485
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 643
+  stamp: 
+    secs: 485
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 644
+  stamp: 
+    secs: 485
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 645
+  stamp: 
+    secs: 485
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 646
+  stamp: 
+    secs: 486
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 647
+  stamp: 
+    secs: 486
+    nsecs: 271000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 648
+  stamp: 
+    secs: 486
+    nsecs: 471000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 649
+  stamp: 
+    secs: 486
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 650
+  stamp: 
+    secs: 486
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 651
+  stamp: 
+    secs: 487
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 652
+  stamp: 
+    secs: 487
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 653
+  stamp: 
+    secs: 487
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 654
+  stamp: 
+    secs: 487
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 655
+  stamp: 
+    secs: 487
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 656
+  stamp: 
+    secs: 488
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 657
+  stamp: 
+    secs: 488
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 658
+  stamp: 
+    secs: 488
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 659
+  stamp: 
+    secs: 488
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 660
+  stamp: 
+    secs: 488
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 661
+  stamp: 
+    secs: 489
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 662
+  stamp: 
+    secs: 489
+    nsecs: 271000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 663
+  stamp: 
+    secs: 489
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 664
+  stamp: 
+    secs: 489
+    nsecs: 671000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 665
+  stamp: 
+    secs: 489
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 666
+  stamp: 
+    secs: 490
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 667
+  stamp: 
+    secs: 490
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 668
+  stamp: 
+    secs: 490
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 669
+  stamp: 
+    secs: 490
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 670
+  stamp: 
+    secs: 490
+    nsecs: 871000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 671
+  stamp: 
+    secs: 491
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 672
+  stamp: 
+    secs: 491
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 673
+  stamp: 
+    secs: 491
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 674
+  stamp: 
+    secs: 491
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 675
+  stamp: 
+    secs: 491
+    nsecs: 871000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 676
+  stamp: 
+    secs: 492
+    nsecs:  71000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 677
+  stamp: 
+    secs: 492
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 678
+  stamp: 
+    secs: 492
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 679
+  stamp: 
+    secs: 492
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 680
+  stamp: 
+    secs: 492
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 681
+  stamp: 
+    secs: 493
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 682
+  stamp: 
+    secs: 493
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 683
+  stamp: 
+    secs: 493
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 684
+  stamp: 
+    secs: 493
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 685
+  stamp: 
+    secs: 493
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 686
+  stamp: 
+    secs: 494
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 687
+  stamp: 
+    secs: 494
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 688
+  stamp: 
+    secs: 494
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 689
+  stamp: 
+    secs: 494
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 690
+  stamp: 
+    secs: 494
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 691
+  stamp: 
+    secs: 495
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 692
+  stamp: 
+    secs: 495
+    nsecs: 271000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 693
+  stamp: 
+    secs: 495
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 694
+  stamp: 
+    secs: 495
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 695
+  stamp: 
+    secs: 495
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 696
+  stamp: 
+    secs: 496
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 697
+  stamp: 
+    secs: 496
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 698
+  stamp: 
+    secs: 496
+    nsecs: 471000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 1
+    text: "This goal has been accepted by the simple action server"
+---
+header: 
+  seq: 699
+  stamp: 
+    secs: 496
+    nsecs: 641000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 700
+  stamp: 
+    secs: 496
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 701
+  stamp: 
+    secs: 496
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 702
+  stamp: 
+    secs: 497
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 703
+  stamp: 
+    secs: 497
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 704
+  stamp: 
+    secs: 497
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 705
+  stamp: 
+    secs: 497
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 706
+  stamp: 
+    secs: 497
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 707
+  stamp: 
+    secs: 498
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 708
+  stamp: 
+    secs: 498
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 709
+  stamp: 
+    secs: 498
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 710
+  stamp: 
+    secs: 498
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 711
+  stamp: 
+    secs: 498
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 712
+  stamp: 
+    secs: 499
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 713
+  stamp: 
+    secs: 499
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 714
+  stamp: 
+    secs: 499
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 715
+  stamp: 
+    secs: 499
+    nsecs: 670000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 716
+  stamp: 
+    secs: 499
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 717
+  stamp: 
+    secs: 500
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 718
+  stamp: 
+    secs: 500
+    nsecs: 270000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 719
+  stamp: 
+    secs: 500
+    nsecs: 470000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 720
+  stamp: 
+    secs: 500
+    nsecs: 671000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 721
+  stamp: 
+    secs: 500
+    nsecs: 870000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
+header: 
+  seq: 722
+  stamp: 
+    secs: 501
+    nsecs:  70000000
+  frame_id: ''
+status_list: 
+  - 
+    goal_id: 
+      stamp: 
+        secs: 398
+        nsecs: 241000000
+      id: "/move_base-1-398.241000000"
+    status: 3
+    text: "Goal reached."
+---
