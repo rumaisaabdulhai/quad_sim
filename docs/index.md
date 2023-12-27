@@ -25,8 +25,6 @@ This repository allows a quadcopter with a Hokuyo 2D lidar to:
 3. Map an indoor environment using the gmapping SLAM algorithm and frontier exploration
 4. Autonomously navigate from one location to another using the move_base node
 
-**Note**: There are two versions of this package. The first is compatible with ROS Kinetic and Ubuntu 16.04, and the second is compatible with ROS Melodic and Ubuntu 18.04. The Melodic version is also the master code.
-
 ---
 
 ## Demos
