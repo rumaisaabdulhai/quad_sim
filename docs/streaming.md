@@ -36,10 +36,3 @@ Now, go to the following [site](http://0.0.0.0:8080/) on your browser. You will 
 You will now see the video stream of the drone from the front camera. You may wish to increase the height and width of the stream or change the type of the stream like so:
 
 http://0.0.0.0:8080/stream_viewer?topic=/front_cam/camera/image&type=mjpeg&width=800&height=600
-
-## Demos
-
-Here is a demo of the navigation process with livestreaming.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JbNfKr267cY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-For more information, visit the following [reference](https://msadowski.github.io/ros-web-tutorial-pt3-web_video_server/).
