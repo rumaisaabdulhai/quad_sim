@@ -34,7 +34,7 @@ This repository allows a quadcopter with a Hokuyo 2D lidar to:
 1. [Indoor SLAM with a Quadcopter Using GMapping, Gazebo & ROS](https://youtu.be/1V5ocwOdLMg)
 2. [Autonomous Navigation of a Quadcopter Using MoveBase, AMCL, Gazebo, & ROS](https://youtu.be/QdkYYYw5Tec)
 3. [Autonomous Mapping of Environment Using Frontier Exploration, GMapping, Gazebo, & ROS](https://youtu.be/SNdfzReCWJQ)
-5. [Quadcopter using Google Cartographer & Teleop for Mapping](https://youtu.be/KcQ23XDVEuY)
+4. [Quadcopter using Google Cartographer & Teleop for Mapping](https://youtu.be/KcQ23XDVEuY)
 5. [Quadcopter Navigating an Indoor Environment using a Map Built with Google Cartographer](https://youtu.be/saH9n_xpQXI)
 ---
 
